@@ -15,6 +15,7 @@
               "state": {
                 "file": "4. Templates/Fleeting Note Template.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -27,6 +28,7 @@
               "state": {
                 "file": "2. Reference Notes/JavaScript/Variables.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
