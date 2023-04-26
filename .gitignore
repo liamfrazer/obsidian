@@ -1,0 +1,6 @@
+# Ignore Obsidian cache and preview files
+/.obsidian/cache/*
+/.obsidian/preview/*
+/.obsidian/workspace/*
+# Ignore backup files
+*.md~

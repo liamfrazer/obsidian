@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1. Zettelkasten",
+  "attachmentFolderPath": "3. Files",
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "autoPairMarkdown": false
+}
