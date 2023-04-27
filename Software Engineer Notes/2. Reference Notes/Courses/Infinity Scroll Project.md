@@ -116,8 +116,26 @@ icon: css3-alt
 
 * Unsplash API - [https://unsplash.com/documentation](https://unsplash.com/documentation#creating-a-developer-account)
 * Scheme will tell us the location/version/verbs to use
-* 
+* We're going to use the fetch API on the GET request
+* We will need to pass an API key, we can pass the client ID as a query string
 
+* A [[template string]] would be used for the API key, as we would need to pass through variables such as the client ID
+
+`````ad-info
+title: JavaScript
+icon: js
+
+```javascript
+// Unsplash API
+
+const apiUrl = `https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY`;
+```
+
+`````
+
+* https://unsplash.com/documentation#get-a-random-photo
+
+* 
 
 ---
 # References
