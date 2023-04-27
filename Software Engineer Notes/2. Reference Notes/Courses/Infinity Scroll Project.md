@@ -236,7 +236,80 @@ function displayPhotos() {
 
 * Creating DRY code
 * Don't repeat yourself
-* A helper function can be used instead of repeating setAtrribute
+* A helper function can be used instead of repeating setAtrributes
+
+## Improved code above with a helper function
+`````ad-info
+title: JavaScript
+icon: js
+
+```javascript
+// Helper function to Set Attributes on DOM Elements
+
+function setAttributes(element, attributes) {
+
+    for (const key in attributes) {
+
+        element.setAttribute(key, attributes[key])
+
+    }
+
+}
+
+  
+
+// Create Elements for Links & Photos, then add to DOM
+
+function displayPhotos() {
+
+    // Run function for each object in photosArray
+
+    photosArray.forEach((photo) => {
+
+        // Create <a> to link to Unsplash
+
+        const item = document.createElement('a');
+
+        setAttributes(item, {
+
+            href: photo.links.html,
+
+            target: '_blank',
+
+        });
+
+        // Create <img> for photo
+
+        const img = document.createElement('img');
+
+        setAttributes(img, {
+
+            src: photo.urls.regular,
+
+            alt: photo.alt_description,
+
+            title: photo.alt_description
+
+        });
+
+        // Put <img> inside <a>, then put both inside imageContainer element
+
+        item.appendChild(img);
+
+        imageContainer.appendChild(item);
+
+    });
+
+}
+```
+
+`````
+
+## HTML DOM Events
+[https://www.w3schools.com/jsref/dom_obj_event.asp](https://www.w3schools.com/jsref/dom_obj_event.asp)
+
+![[Infinite Scroll Functionality.png]]
+
 
 ---
 # References
