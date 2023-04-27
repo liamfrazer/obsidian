@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,11 +149,11 @@
   },
   "active": "73af80a7146335e6",
   "lastOpenFiles": [
+    "5. MOC/JavaScript.md",
+    "2. Reference Notes/Courses/Infinity Scroll Project.md",
     "3. Files/Infinite Scroll Functionality.png",
     "1. Zettelkasten/template string.md",
-    "2. Reference Notes/Courses/Infinity Scroll Project.md",
     "5. MOC/CSS.md",
-    "5. MOC/JavaScript.md",
     "2. Reference Notes/JavaScript/Immutability.md",
     "2. Reference Notes/JavaScript/Modules.md",
     "2. Reference Notes/JavaScript/Asynchronous.md",

@@ -1,5 +1,5 @@
 2023-04-27 16:19
-Status: #Course
+Status: #Course #ZeroToMastery
 Tags: [[JavaScript]] [[CSS]]
 
 # Infinity Scroll Project
@@ -407,3 +407,4 @@ function imageLoaded() {
 # References
 https://loading.io/
 https://unsplash.com/
+https://academy.zerotomastery.io/courses/1007166
