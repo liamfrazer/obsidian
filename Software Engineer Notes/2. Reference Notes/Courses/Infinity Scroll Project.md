@@ -86,7 +86,34 @@ icon: css3-alt
 `````
 
 * https://unsplash.com/ free images can be used
-* 
+
+`````ad-info
+title: CSS
+icon: css3-alt
+
+```css
+/* Image container */
+
+.image-container {
+
+    margin: 10px 30%;
+
+  
+
+}
+
+  
+
+.image-container img {
+
+    width: 100%;
+
+}
+```
+
+`````
+
+
 
 ---
 # References
