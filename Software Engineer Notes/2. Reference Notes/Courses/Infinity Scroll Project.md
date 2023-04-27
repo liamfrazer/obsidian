@@ -64,9 +64,31 @@ h1 {
 
 `````
 
+* Centering an image within the centre of a page
+`````ad-info
+title: CSS
+icon: css3-alt
 
+```css
+.loader img {
 
+    position: fixed;
+
+    top: 50%;
+
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+}
+```
+
+`````
+
+* https://unsplash.com/ free images can be used
+* 
 
 ---
 # References
 https://loading.io/
+https://unsplash.com/
