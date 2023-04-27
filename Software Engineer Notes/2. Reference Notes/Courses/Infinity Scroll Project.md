@@ -311,6 +311,33 @@ function displayPhotos() {
 ![[Infinite Scroll Functionality.png]]
 
 
+* We will need two values from our window
+* window.innerHeight
+* window.scrollY
+* We add the two numbers, then compare to the height of everything in the body, including what is not within view
+* We will need to modify it by a pixel amount
+* When the user scrolls to a certain point, that is where we load more photos to act seamless
+
+`````ad-info
+title: JavaScript
+icon: js
+
+```javascript
+window.addEventListener('scroll', () => {
+
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000) {
+
+  
+
+    }
+
+})
+```
+
+`````
+
+
+
 ---
 # References
 https://loading.io/
