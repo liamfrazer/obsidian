@@ -135,6 +135,20 @@ const apiUrl = `https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY`;
 
 * https://unsplash.com/documentation#get-a-random-photo
 
+`````ad-info
+title: JavaScript
+icon: js
+
+```javascript
+// Unsplash API
+const count = 30;
+const apiKey = '';
+const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
+```
+
+`````
+* We pass through random after /photos
+* We pass through the `apiKey` and the `count` as mentioned in the documentation
 * 
 
 ---
