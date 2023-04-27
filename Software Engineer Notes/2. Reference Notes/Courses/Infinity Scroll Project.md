@@ -149,7 +149,42 @@ const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&coun
 `````
 * We pass through random after /photos
 * We pass through the `apiKey` and the `count` as mentioned in the documentation
-* 
+
+
+* Simple async function
+`````ad-info
+title: JavaScript
+icon: js
+
+```javascript
+// Get photos from UnSplash API
+
+async function getPhotos() {
+
+    try {
+
+        const response = await fetch(apiUrl);
+
+        const data = await response.json();
+
+        console.log(data);
+
+    } catch (error) {
+
+        // Catch error here
+
+    }
+
+}
+```
+
+`````
+* This is a simple async function to pull data back from the Unsplash API
+* This includes a try/catch statement to ensure there are no errors
+* We `await fetch` a response from the API
+* We then save that response as json with `await response.json();`
+* If there are any errors, this would come back into the catch statement
+
 
 ---
 # References
