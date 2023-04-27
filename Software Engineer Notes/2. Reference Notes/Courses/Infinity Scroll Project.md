@@ -185,6 +185,9 @@ async function getPhotos() {
 * We then save that response as json with `await response.json();`
 * If there are any errors, this would come back into the catch statement
 
+* [https://www.w3schools.com/jsref/jsref_foreach.asp](https://www.w3schools.com/jsref/jsref_foreach.asp)
+* https://alligator.io/js/foreach-vs-for-loops/
+
 
 ---
 # References
