@@ -336,6 +336,32 @@ window.addEventListener('scroll', () => {
 
 `````
 
+`````ad-info
+title: JavaScript
+icon: js
+
+```javascript
+// Check to see if scrolling near bottom of page, load more photos
+
+window.addEventListener('scroll', () => {
+
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000) {
+
+        getPhotos();
+
+        console.log('loading more photos');
+
+    }
+
+})
+```
+
+`````
+* The issue with this code is that it can be hit multiple times at once, when in theory it should only be loading once the user reached the end of the next 30 photos, not instantly once they've reached the end for the first time
+
+https://www.w3schools.com/jsref/event_onload.asp
+
+
 
 
 ---
