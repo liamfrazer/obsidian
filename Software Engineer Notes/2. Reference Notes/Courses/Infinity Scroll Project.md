@@ -39,7 +39,31 @@ body {
 `````
 
 * Google fonts can be used and applied in the CSS
-* `@import` is added to the top & then `font-family` with the backu
+* `@import` is added to the top & then `font-family` with the backup of `sans-serif`
+
+* Centering a H1 div
+`````ad-info
+title: CSS
+icon: css3-alt
+
+```css
+h1 {
+
+    text-align: center;
+
+    margin-top: 25px;
+
+    margin-bottom: 15px;
+
+    font-size: 40px;
+
+    letter-spacing: 5px;
+
+}
+```
+
+`````
+
 
 
 
