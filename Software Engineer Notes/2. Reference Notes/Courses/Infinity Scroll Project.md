@@ -361,6 +361,45 @@ window.addEventListener('scroll', () => {
 
 https://www.w3schools.com/jsref/event_onload.asp
 
+* Setting the count to 5 on the initial load allows the page to load much quicker on the first time, once the 5 images have loaded, the count can then be set to 30 for the next load
+  
+`````ad-info
+title: JavaScript
+icon: js
+
+```javascript
+// Unsplash API
+
+let count = 5;
+
+const apiKey = 'UXk7dM2pTcQilECI5I9ZumGv3W_yXKJjuyAt-OTndqM';
+
+const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
+
+  
+
+// Check if all images were loaded
+
+function imageLoaded() {
+
+    imagesLoaded++;
+
+    if (imagesLoaded === totalImages) {
+
+        ready = true;
+
+        loader.hidden = true;
+
+        initialLoad = false;
+
+        count = 30;
+
+    }
+
+}
+```
+
+`````
 
 
 
