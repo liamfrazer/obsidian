@@ -97,22 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "00fc833146fa6454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -250,11 +237,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "00fc833146fa6454",
+  "active": "f009fdcfa065f8d7",
   "lastOpenFiles": [
+    "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "3. Files/Pasted image 20230428230152.png",
     "1. Zettelkasten/Prompt Engineering.md",
-    "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "3. Files/Pasted image 20230428223701.png",
     "5. MOC/Videos.md",
     "index.md",
