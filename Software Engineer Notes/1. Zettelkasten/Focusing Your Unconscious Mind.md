@@ -22,6 +22,22 @@ Tags:
 * Each step can be broken down until each step is so simple, you don't need to break it down any further
 ### 3. Understand it by itself
 * Figure out the rest ( abstracted, details unknown)
+* #### Care
+* Better memory/more insights/easier time
+* Be passionate about the concept or care about the end result
+* It should bother you that you don't understand a concept
+* Care about the problem enough to make it the main focus of your brain
+* #### Point = Problem
+* What is this piece about?
+* What does it accomplish/describe?
+* What does it do?
+* You should understand the problem
+* Deep & insightful regarding the problem
+* #### Try to solve the problem yourself
+* #### Look at examples and try and reverse-engineer the rule
+* Problem > idea 1 > idea 2 > idea 3
+* 
+
 ### 4. Reinforce it
 #### 5. Magic/Black box
 
