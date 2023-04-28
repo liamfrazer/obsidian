@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33166701cfefe494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Arrays.md",
+                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Arrays.md",
+                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Arrays.md"
+                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md"
               }
             }
           },
@@ -172,8 +185,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0daa43ba6d177529",
+  "active": "33166701cfefe494",
   "lastOpenFiles": [
+    "2. Reference Notes/Untitled.md",
+    "1. Zettelkasten/Focusing Your Unconscious Mind.md",
+    "2. Reference Notes/Videos",
+    "2. Reference Notes/JavaScript/Arrays.md",
     "2. Reference Notes/JavaScript/Asynchronous.md",
     "2. Reference Notes/JavaScript/Classes and Inheritance.md",
     "2. Reference Notes/JavaScript/Conditional Statements.md",
@@ -191,7 +208,6 @@
     "2. Reference Notes/JavaScript/Template Literals.md",
     "2. Reference Notes/JavaScript/Variables.md",
     "4. Templates/Fleeting Note Template.md",
-    "2. Reference Notes/JavaScript/Arrays.md",
     "4. Templates/Flashcard Template.md",
     "2. Reference Notes/Courses/Infinity Scroll Project.md",
     "2. Reference Notes/Projects",
@@ -199,8 +215,6 @@
     "4. Templates/HTML Code Block.md",
     "4. Templates/JavaScript Code Block.md",
     "4. Templates/Code Block.md",
-    "1. Zettelkasten/template string.md",
-    "5. MOC/JavaScript.md",
     "3. Files/Infinite Scroll Functionality.png",
     "2. Reference Notes/Courses",
     "2. Reference Notes/JavaScript",
@@ -209,7 +223,6 @@
     "1. Zettelkasten/Untitled",
     "3. Files",
     "4. Templates",
-    "Meta",
-    "4. Distilled Notes"
+    "Meta"
   ]
 }
