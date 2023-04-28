@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Variables.md",
+                "file": "2. Reference Notes/Courses/Infinity Scroll Project.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Variables.md",
+                "file": "2. Reference Notes/Courses/Infinity Scroll Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Variables.md",
+                "file": "2. Reference Notes/Courses/Infinity Scroll Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Variables.md"
+                "file": "2. Reference Notes/Courses/Infinity Scroll Project.md"
               }
             }
           },
@@ -153,13 +153,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
   "active": "73af80a7146335e6",
   "lastOpenFiles": [
-    "1. Zettelkasten/template string.md",
+    "4. Templates/CSS Code Block.md",
+    "4. Templates/Fleeting Note Template.md",
+    "4. Templates/HTML Code Block.md",
+    "4. Templates/JavaScript Code Block.md",
+    "4. Templates/Code Block.md",
     "2. Reference Notes/Courses/Infinity Scroll Project.md",
+    "2. Reference Notes/JavaScript/Variables.md",
+    "1. Zettelkasten/template string.md",
     "2. Reference Notes/JavaScript/DOM Manipulation.md",
     "5. MOC/JavaScript.md",
     "3. Files/Infinite Scroll Functionality.png",
@@ -178,14 +186,9 @@
     "2. Reference Notes/JavaScript/Conditional Statements.md",
     "2. Reference Notes/JavaScript/Operators.md",
     "2. Reference Notes/JavaScript/Data Types.md",
-    "2. Reference Notes/JavaScript/Variables.md",
-    "4. Templates/HTML Code Block.md",
-    "4. Templates/CSS Code Block.md",
-    "4. Templates/JavaScript Code Block.md",
     "2. Reference Notes/JavaScript/Regular Expressions.md",
     "2. Reference Notes/Courses",
     "2. Reference Notes/JavaScript",
-    "4. Templates/Fleeting Note Template.md",
     "5. MOC",
     "2. Reference Notes",
     "1. Zettelkasten/Untitled",

@@ -8,7 +8,7 @@ Tags: [[JavaScript]] [[CSS]]
 * [https://fonts.google.com](http://fonts.google.com) can be used for nice fonts
 * @import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
 
-`````ad-info
+```CSS
 title: CSS
 icon: css3-alt
 
@@ -36,17 +36,16 @@ body {
 }
 ```
 
-`````
 
 * Google fonts can be used and applied in the CSS
 * `@import` is added to the top & then `font-family` with the backup of `sans-serif`
 
 * Centering a H1 div
-`````ad-info
+```CSS
 title: CSS
 icon: css3-alt
 
-```css
+
 h1 {
 
     text-align: center;
@@ -60,15 +59,9 @@ h1 {
     letter-spacing: 5px;
 
 }
+
 ```
-
-`````
-
 * Centering an image within the centre of a page
-`````ad-info
-title: CSS
-icon: css3-alt
-
 ```css
 .loader img {
 
@@ -83,13 +76,10 @@ icon: css3-alt
 }
 ```
 
-`````
+
 
 * https://unsplash.com/ free images can be used
 
-`````ad-info
-title: CSS
-icon: css3-alt
 
 ```css
 /* Image container */
@@ -110,8 +100,6 @@ icon: css3-alt
 
 }
 ```
-
-`````
 
 
 * Unsplash API - [https://unsplash.com/documentation](https://unsplash.com/documentation#creating-a-developer-account)
