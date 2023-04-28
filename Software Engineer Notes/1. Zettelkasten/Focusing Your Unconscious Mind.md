@@ -27,6 +27,7 @@ Tags:
 * Be passionate about the concept or care about the end result
 * It should bother you that you don't understand a concept
 * Care about the problem enough to make it the main focus of your brain
+* Force your brain to care and it will solve it for you
 * #### Point = Problem
 * What is this piece about?
 * What does it accomplish/describe?
@@ -36,9 +37,20 @@ Tags:
 * #### Try to solve the problem yourself
 * #### Look at examples and try and reverse-engineer the rule
 * Problem > idea 1 > idea 2 > idea 3
-* 
-
+* Hints help with your thinking on more details
+* How the solution solves the problem?
+* How it fits into the big picture?
+* What insights it offers for the rest of the concept?
+* What inspired that solution? (the steps to come up with it)
 ### 4. Reinforce it
+* #### Invent
+* Try to invent the concept for yourself
+* #### Practice
+* Apply the concept to various things
+* #### Explain
+* Understand it well enough to explain to someone else
+* #### Explore
+* Think about various ideas related to the concept
 #### 5. Magic/Black box
 
 ![[Pasted image 20230428223701.png]]
