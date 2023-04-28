@@ -109,23 +109,13 @@ h1 {
 
 * A [[template string]] would be used for the API key, as we would need to pass through variables such as the client ID
 
-`````ad-info
-title: JavaScript
-icon: js
-
 ```javascript
 // Unsplash API
 
 const apiUrl = `https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY`;
 ```
 
-`````
-
 * https://unsplash.com/documentation#get-a-random-photo
-
-`````ad-info
-title: JavaScript
-icon: js
 
 ```javascript
 // Unsplash API
@@ -134,15 +124,12 @@ const apiKey = '';
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 ```
 
-`````
+
 * We pass through random after /photos
 * We pass through the `apiKey` and the `count` as mentioned in the documentation
 
 
 ## Simple Async function
-`````ad-info
-title: JavaScript
-icon: js
 
 ```javascript
 // Get photos from UnSplash API
@@ -166,7 +153,6 @@ async function getPhotos() {
 }
 ```
 
-`````
 * This is a simple async function to pull data back from the Unsplash API
 * This includes a try/catch statement to ensure there are no errors
 * We `await fetch` a response from the API
@@ -177,10 +163,6 @@ async function getPhotos() {
 * https://alligator.io/js/foreach-vs-for-loops/
 
 ## Creating elements for links and photos, then adding to [[DOM Manipulation|DOM]]
-
-`````ad-info
-title: JavaScript
-icon: js
 
 ```javascript
 // Create Elements for Links & Photos, then add to DOM
@@ -220,16 +202,11 @@ function displayPhotos() {
 }
 ```
 
-`````
-
 * Creating DRY code
 * Don't repeat yourself
 * A helper function can be used instead of repeating setAtrributes
 
 ## Improved code above with a helper function
-`````ad-info
-title: JavaScript
-icon: js
 
 ```javascript
 // Helper function to Set Attributes on DOM Elements
@@ -291,7 +268,6 @@ function displayPhotos() {
 }
 ```
 
-`````
 
 ## HTML DOM Events
 [https://www.w3schools.com/jsref/dom_obj_event.asp](https://www.w3schools.com/jsref/dom_obj_event.asp)
@@ -306,10 +282,6 @@ function displayPhotos() {
 * We will need to modify it by a pixel amount
 * When the user scrolls to a certain point, that is where we load more photos to act seamless
 
-`````ad-info
-title: JavaScript
-icon: js
-
 ```javascript
 window.addEventListener('scroll', () => {
 
@@ -321,12 +293,6 @@ window.addEventListener('scroll', () => {
 
 })
 ```
-
-`````
-
-`````ad-info
-title: JavaScript
-icon: js
 
 ```javascript
 // Check to see if scrolling near bottom of page, load more photos
@@ -344,17 +310,13 @@ window.addEventListener('scroll', () => {
 })
 ```
 
-`````
+
 * The issue with this code is that it can be hit multiple times at once, when in theory it should only be loading once the user reached the end of the next 30 photos, not instantly once they've reached the end for the first time
 
 https://www.w3schools.com/jsref/event_onload.asp
 
 * Setting the count to 5 on the initial load allows the page to load much quicker on the first time, once the 5 images have loaded, the count can then be set to 30 for the next load
   
-`````ad-info
-title: JavaScript
-icon: js
-
 ```javascript
 // Unsplash API
 
@@ -386,10 +348,6 @@ function imageLoaded() {
 
 }
 ```
-
-`````
-
-
 
 ---
 # References
