@@ -97,9 +97,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00fc833146fa6454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Zettelkasten/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
+                "file": "1. Zettelkasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
+                "file": "1. Zettelkasten/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md"
+                "file": "1. Zettelkasten/Untitled.md"
               }
             }
           },
@@ -237,15 +250,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f009fdcfa065f8d7",
+  "active": "00fc833146fa6454",
   "lastOpenFiles": [
+    "1. Zettelkasten/Focusing Your Unconscious Mind.md",
+    "1. Zettelkasten/Untitled.md",
+    "3. Files/Pasted image 20230428223701.png",
     "5. MOC/Videos.md",
     "index.md",
     "5. MOC/JavaScript.md",
     "5. MOC/Courses.md",
     "5. MOC/Projects.md",
     "5. MOC/CSS.md",
-    "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "2. Reference Notes/Untitled.md",
     "2. Reference Notes/Videos",
     "2. Reference Notes/JavaScript/Arrays.md",
@@ -265,7 +280,6 @@
     "2. Reference Notes/JavaScript/Regular Expressions.md",
     "2. Reference Notes/JavaScript/Template Literals.md",
     "2. Reference Notes/JavaScript/Variables.md",
-    "4. Templates/Fleeting Note Template.md",
     "2. Reference Notes/Projects",
     "3. Files/Infinite Scroll Functionality.png",
     "2. Reference Notes/Courses",
