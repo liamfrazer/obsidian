@@ -188,7 +188,7 @@ async function getPhotos() {
 * [https://www.w3schools.com/jsref/jsref_foreach.asp](https://www.w3schools.com/jsref/jsref_foreach.asp)
 * https://alligator.io/js/foreach-vs-for-loops/
 
-## Creating elements for links and photos, then adding to DOM
+## Creating elements for links and photos, then adding to [[DOM Manipulation|DOM]]
 
 `````ad-info
 title: JavaScript
