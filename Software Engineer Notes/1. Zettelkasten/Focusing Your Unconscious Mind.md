@@ -4,7 +4,8 @@ Tags:
 
 # Focusing Your Unconscious Mind
 
-
+## Start with the big picture
+* 
 
 ___
 # Flashcards
