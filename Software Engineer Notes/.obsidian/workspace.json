@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/Courses/Infinity Scroll Project.md",
+                "file": "2. Reference Notes/JavaScript/Arrays.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/Courses/Infinity Scroll Project.md",
+                "file": "2. Reference Notes/JavaScript/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/Courses/Infinity Scroll Project.md",
+                "file": "2. Reference Notes/JavaScript/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/Courses/Infinity Scroll Project.md"
+                "file": "2. Reference Notes/JavaScript/Arrays.md"
               }
             }
           },
@@ -158,15 +158,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "659eb7cc6c04af3d",
+  "active": "73af80a7146335e6",
   "lastOpenFiles": [
+    "2. Reference Notes/Courses/Infinity Scroll Project.md",
     "2. Reference Notes/Projects",
     "4. Templates/CSS Code Block.md",
     "4. Templates/Fleeting Note Template.md",
     "4. Templates/HTML Code Block.md",
     "4. Templates/JavaScript Code Block.md",
     "4. Templates/Code Block.md",
-    "2. Reference Notes/Courses/Infinity Scroll Project.md",
     "2. Reference Notes/JavaScript/Variables.md",
     "1. Zettelkasten/template string.md",
     "2. Reference Notes/JavaScript/DOM Manipulation.md",
@@ -195,7 +195,6 @@
     "3. Files",
     "4. Templates",
     "Meta",
-    "4. Distilled Notes",
-    "3. Practical Notes"
+    "4. Distilled Notes"
   ]
 }
