@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Arrays.md",
+                "file": "4. Templates/Fleeting Note Template.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0daa43ba6d177529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Reference Notes/JavaScript/Regular Expressions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Arrays.md",
+                "file": "2. Reference Notes/JavaScript/Regular Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Arrays.md",
+                "file": "2. Reference Notes/JavaScript/Regular Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Arrays.md"
+                "file": "2. Reference Notes/JavaScript/Regular Expressions.md"
               }
             }
           },
@@ -158,16 +172,20 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "73af80a7146335e6",
+  "active": "0daa43ba6d177529",
   "lastOpenFiles": [
+    "2. Reference Notes/JavaScript/Template Literals.md",
+    "2. Reference Notes/JavaScript/Variables.md",
+    "4. Templates/Fleeting Note Template.md",
+    "2. Reference Notes/JavaScript/Arrays.md",
+    "2. Reference Notes/JavaScript/Asynchronous.md",
+    "4. Templates/Flashcard Template.md",
     "2. Reference Notes/Courses/Infinity Scroll Project.md",
     "2. Reference Notes/Projects",
     "4. Templates/CSS Code Block.md",
-    "4. Templates/Fleeting Note Template.md",
     "4. Templates/HTML Code Block.md",
     "4. Templates/JavaScript Code Block.md",
     "4. Templates/Code Block.md",
-    "2. Reference Notes/JavaScript/Variables.md",
     "1. Zettelkasten/template string.md",
     "2. Reference Notes/JavaScript/DOM Manipulation.md",
     "5. MOC/JavaScript.md",
@@ -175,13 +193,10 @@
     "5. MOC/CSS.md",
     "2. Reference Notes/JavaScript/Immutability.md",
     "2. Reference Notes/JavaScript/Modules.md",
-    "2. Reference Notes/JavaScript/Asynchronous.md",
     "2. Reference Notes/JavaScript/Event Handling.md",
-    "2. Reference Notes/JavaScript/Template Literals.md",
     "2. Reference Notes/JavaScript/Destructuring.md",
     "2. Reference Notes/JavaScript/Classes and Inheritance.md",
     "2. Reference Notes/JavaScript/Objects.md",
-    "2. Reference Notes/JavaScript/Arrays.md",
     "2. Reference Notes/JavaScript/Functions.md",
     "2. Reference Notes/JavaScript/Loops.md",
     "2. Reference Notes/JavaScript/Conditional Statements.md",

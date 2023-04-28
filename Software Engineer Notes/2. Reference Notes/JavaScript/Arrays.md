@@ -4,11 +4,9 @@ Tags: [[JavaScript]]
 
 # Arrays
 
-#flashcards
-What is an array?
 
 
-#flashcards 
+
 
 
 
