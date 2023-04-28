@@ -47,13 +47,23 @@ Tags:
 * Try to invent the concept for yourself
 * #### Practice
 * Apply the concept to various things
+* Apply this concept wherever you can
+* Expand on the concept
+* Think about why it fits, put it in context
+* This forces you to view the concept from different angles
 * #### Explain
 * Understand it well enough to explain to someone else
+* Write it in your own words
+* Explain every detail
+* If you get stuck, you should fix your understanding
+* Explaining is nice because it forces you to look for a simple way of viewing the concept
 * #### Explore
 * Think about various ideas related to the concept
+* Mentally explore variations of the concept
+* Why?
 #### 5. Magic/Black box
 
-![[Pasted image 20230428223701.png]]
+![[Pasted image 20230428230152.png]]
 
 
 ___
