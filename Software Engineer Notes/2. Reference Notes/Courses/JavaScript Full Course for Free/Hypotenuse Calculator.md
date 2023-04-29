@@ -24,6 +24,18 @@ console.log("Side C:", c); // Side C: 5
 
 ## HTML Text Boxes
 
+```html
+<body>
+    <label for="aTextBox" id="aLabel">Side A:</label></br>
+    <input type="text" id="aTextBox"></br>
+    <label for="bTextBox" id="bLabel">Side B:</label></br>
+    <input type="text" id="bTextBox"></br>
+    <button type="button" id="submitButton">Submit</button></br></br>
+    <label for="cTextBox" id="cLabel">Side C:</label></br>
+    <script src="index.js"></script>
+</body>
+```
+
 
 
 
