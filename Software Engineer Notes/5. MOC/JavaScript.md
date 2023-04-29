@@ -12,6 +12,7 @@ Tags:
 * ## [[Math]] : [00:33:13](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1993s)
 * ## [[Hypotenuse Calculator]] : [00:36:52](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=2212s)
 * ## [[Counter Program]] : [00:43:12](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=2592s)
+* ## [[Random Number Generator]] : [00:46:52](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=2812s)
 * 
 
 
