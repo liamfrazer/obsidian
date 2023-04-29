@@ -28,7 +28,7 @@ x = Math.ceil(x);
 console.log(x); // 4
 ```
 
-## `Math.pow()`
+## `Math.pow(,)`
 * The .pow function will raise a value to the given power
 ```javascript
 let x = 3;
@@ -36,10 +36,26 @@ x = Math.pow(x, 2);
 console.log(x); // 9
 ```
 
-## `Math.
+## `Math.sqrt()`
+* The .sqrt function will provide the square root of a value
 
+```javascript
+let x = 3;
+x = Math.sqrt(x);
+console.log(x); // 1.74
+```
 
+## `Math.abs()
+* The .abs function will provide the distance away from 0
 
+```javascript
+let x = 3;
+x = Math.abs(x);
+console.log(x); // 3
+```
+
+## `Math.max()`
+* 
 
 
 ___
