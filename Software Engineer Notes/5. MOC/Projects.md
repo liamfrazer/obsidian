@@ -3,9 +3,3 @@ Status: #MOC
 Tags:
 
 # Projects
-
-
-
-
----
-# References

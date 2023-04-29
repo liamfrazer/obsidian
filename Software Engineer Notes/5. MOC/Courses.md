@@ -3,10 +3,3 @@ Status: #MOC
 Tags:
 
 # Courses
-
-* [[Infinity Scroll Project]]
-
-
-
----
-# References
