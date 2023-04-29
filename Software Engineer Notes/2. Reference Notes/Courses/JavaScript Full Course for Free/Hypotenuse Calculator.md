@@ -36,10 +36,22 @@ console.log("Side C:", c); // Side C: 5
 </body>
 ```
 
+```javascript
+let a;
+let b;
+let c;
 
+document.getElementById("submitButton").onclick = function () {
+    a = document.getElementById("aTextBox").value; // 3
+    a = Number(a);
 
+    b = document.getElementById("bTextBox").value; // 4
+    b = Number(b);
 
-
+    c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2))
+    document.getElementById("cLabel").innerHTML = "Sice C:" + c; // 5
+}
+```
 
 
 ___
