@@ -69,6 +69,10 @@ Tags:
 ___
 # Flashcards
 
+#flashcards Q: Four most important steps for focusing your unconscious mind? :: A: Start with the big picture > Pick a detail to learn > understand it in context > Understand it by itself > Reinforce it
+<!--SR:!2023-05-02,4,270-->
+
+
 
 
 ---
