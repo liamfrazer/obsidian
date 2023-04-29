@@ -25,6 +25,7 @@ let extraStudents = students % 3; // 2
 * The modulus is `%`, it gives you the remainder of any division
 
 ## Augmented Assignment Operator
+
 ```javascript
 students += 1; // 21
 
@@ -48,6 +49,10 @@ console.log(result); // 15
 
 * By adding a set of Parenthesis, you can force operator precedence
 
+```javascript
+let result = (1 + 2) * (3 + 4);
+console.log(result); // 21
+```
 
 
 ___
