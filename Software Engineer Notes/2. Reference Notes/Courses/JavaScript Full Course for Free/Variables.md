@@ -65,4 +65,4 @@ ___
 
 ---
 # References
-https://www.youtube.com/watch?v=8dWL3wF_OMw&t=482s
+[Variables](https://www.youtube.com/watch?v=8dWL3wF_OMw&t=482s)
