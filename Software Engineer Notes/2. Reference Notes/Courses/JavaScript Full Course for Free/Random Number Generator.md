@@ -11,6 +11,10 @@ console.log("Number:", x); Number: 0.6190965404088449
 ```
 
 ## Random Dice Roll
+```javascript
+let x = Math.floor(Math.random() * 6) + 1;
+console.log("Number:", x);
+```
 
 
 
