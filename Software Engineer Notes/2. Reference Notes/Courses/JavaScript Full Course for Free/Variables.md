@@ -2,7 +2,7 @@
 Status: #Documentation 
 Tags: [[JavaScript]]
 
-# Untitled
+# Variables
 
 
 
