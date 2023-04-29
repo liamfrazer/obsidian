@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16dcc59d5a24ade7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Variables.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,10 +188,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "507f59e1c56a2157",
+  "active": "16dcc59d5a24ade7",
   "lastOpenFiles": [
-    "2. Reference Notes/Projects/Infinity Scroll Project.md",
+    "4. Templates/Console Code Block.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free/Variables.md",
+    "2. Reference Notes/Projects/Infinity Scroll Project.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "4. Templates/JavaScript Note Template.md",
     "4. Templates/Fleeting Note Template.md",
@@ -205,7 +220,6 @@
     "2. Reference Notes/JavaScript/Immutability.md",
     "2. Reference Notes/JavaScript/Loops.md",
     "2. Reference Notes/JavaScript/Modules.md",
-    "2. Reference Notes/JavaScript/Objects.md",
     "2. Reference Notes/Projects",
     "3. Files/Infinite Scroll Functionality.png",
     "2. Reference Notes/Courses",

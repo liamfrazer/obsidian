@@ -45,6 +45,17 @@ console.log("Enrolled:", student); // Enrolled: true
     <p id="p3"></p>
 ```
 
+```javascript
+document.getElementById("p1").innerHTML = "Hello " + firstName;
+document.getElementById("p2").innerHTML = "You are " + age + " years old";
+document.getElementById("p3").innerHTML = "Enrolled: " + student;
+```
+
+```console
+Hello Liam
+You are 22 years old
+Enrolled: true
+```
 
 
 ___
@@ -54,3 +65,4 @@ ___
 
 ---
 # References
+https://www.youtube.com/watch?v=8dWL3wF_OMw&t=482s
