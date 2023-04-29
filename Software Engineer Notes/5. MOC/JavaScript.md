@@ -9,7 +9,8 @@ Tags:
 * ## [[Type Conversion]] : [00:25:41](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1541s)
 * ## [[const]] : [00:30:11](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1811s)
 * ## [[Math]] : [00:33:13](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1993s)
-* ## [[Hypotenuse Calculator]]
+* ## [[Hypotenuse Calculator]] : [00:36:52](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=2212s)
+* 
 
 
 

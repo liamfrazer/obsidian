@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Variables.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16dcc59d5a24ade7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Hypotenuse Calculator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Hypotenuse Calculator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Hypotenuse Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. MOC/JavaScript.md"
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Hypotenuse Calculator.md"
               }
             }
           },
@@ -188,19 +174,21 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "16dcc59d5a24ade7",
+  "active": "507f59e1c56a2157",
   "lastOpenFiles": [
-    "2. Reference Notes/Courses/JavaScript Full Course for Free/Math.md",
     "5. MOC/JavaScript.md",
+    "5. MOC/Projects.md",
+    "5. MOC/Videos.md",
+    "index.md",
+    "2. Reference Notes/Courses/JavaScript Full Course for Free/Hypotenuse Calculator.md",
+    "2. Reference Notes/Courses/JavaScript Full Course for Free/Math.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free/const.md",
-    "2. Reference Notes/Courses/JavaScript Full Course for Free/Type Conversion.md",
-    "2. Reference Notes/Courses/JavaScript Full Course for Free/Variables.md",
-    "2. Reference Notes/Courses/JavaScript Full Course for Free/User Input.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free/Arithmetic Expressions.md",
+    "2. Reference Notes/Courses/JavaScript Full Course for Free/Type Conversion.md",
+    "2. Reference Notes/Courses/JavaScript Full Course for Free/User Input.md",
+    "2. Reference Notes/Courses/JavaScript Full Course for Free/Variables.md",
     "5. MOC/Courses.md",
     "5. MOC/CSS.md",
-    "5. MOC/Videos.md",
-    "5. MOC/Projects.md",
     "4. Templates/Console Code Block.md",
     "2. Reference Notes/Projects/Infinity Scroll Project.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
@@ -211,7 +199,6 @@
     "1. Zettelkasten/Prompt Engineering.md",
     "3. Files/Pasted image 20230428230152.png",
     "3. Files/Pasted image 20230428223701.png",
-    "index.md",
     "2. Reference Notes/Untitled.md",
     "2. Reference Notes/Videos",
     "2. Reference Notes/JavaScript/Asynchronous.md",
@@ -219,7 +206,6 @@
     "2. Reference Notes/JavaScript/Conditional Statements.md",
     "2. Reference Notes/JavaScript/Data Types.md",
     "2. Reference Notes/JavaScript/Destructuring.md",
-    "2. Reference Notes/JavaScript/DOM Manipulation.md",
     "2. Reference Notes/Projects",
     "3. Files/Infinite Scroll Functionality.png",
     "2. Reference Notes/Courses",
