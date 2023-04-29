@@ -18,7 +18,12 @@ Tags:
 * Need a plan
 * Splitting out a cloned website into smaller tasks then creates mini projects
 * These can then be split down further into smaller parts, the buttons don't even have to have any functionality
+* All problems can be broken down to the point where you've got the smallest problem, then you can google that
+
+## Whenever doing a tutorial, write 3 tiny projects at the end of each section
+* Example: If I've finished an form section, create 3 crappy forms to ensure I've learnt correctly
 * 
+
 
 ___
 # Flashcards
