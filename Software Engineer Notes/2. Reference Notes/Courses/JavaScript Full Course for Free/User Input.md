@@ -15,15 +15,22 @@ console.log(username); // Liam
 
 ```html
 <body>
-    <label for="myText">Enter your name:</label></br>
+    <label for="myText" id="myLabel">Enter your name:</label></br>
     <input type="text" id="myText"></br>
     <button type="button" id="myButton">Submit</button>
     <script src="index.js"></script>
 </body>
 ```
 
+```javascript
+let username;
 
-
+document.getElementById("myButton").onClick = function () {
+    username = document.getElementById("myText").value;
+    console.log(username);
+    document.getElementById("myLabel").innerHTML = "Hello " + username;
+}
+```
 
 
 ___
