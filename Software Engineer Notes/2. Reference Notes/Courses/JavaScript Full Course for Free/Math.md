@@ -54,8 +54,23 @@ x = Math.abs(x);
 console.log(x); // 3
 ```
 
-## `Math.max()`
-* 
+## `Math.max()` & `Math.min()`
+* Returns the larger or the lower of a set of supplied values
+
+```javascript
+let x = 3;
+let y = 5;
+let z = 9;
+
+let minimum;
+let maximum;
+
+minimum = Math.min(x, y, z);
+maximum = Math.max(x, y, z);
+
+console.log(minimum); // 3
+console.log(maximum); // 9
+```
 
 
 ___
