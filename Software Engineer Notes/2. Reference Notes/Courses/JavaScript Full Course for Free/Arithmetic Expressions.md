@@ -1,5 +1,5 @@
 2023-04-29 12:22
-Status: #Documentation 
+Status: #Documentation #Video 
 Tags: [[JavaScript]]
 
 # Arithmetic Expressions

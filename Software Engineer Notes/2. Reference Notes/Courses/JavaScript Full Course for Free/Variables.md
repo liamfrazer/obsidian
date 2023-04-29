@@ -1,5 +1,5 @@
 2023-04-29 10:24
-Status: #Documentation 
+Status: #Documentation #Video 
 Tags: [[JavaScript]]
 
 # Variables
