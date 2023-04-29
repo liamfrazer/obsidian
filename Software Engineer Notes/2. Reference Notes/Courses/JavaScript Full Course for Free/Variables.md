@@ -16,18 +16,33 @@ Tags: [[JavaScript]]
 
 ## Data Types
 ```javascript
-let firstName = 'Liam';
-
-let age = 21;
-
-let student = true;
-
-  
+let firstName = 'Liam'; // String
+let age = 21; // Number
+let student = true; // Boolean
 
 console.log(firstName); // Liam
-
 console.log(age); // 22
 console.log(student); // true
+```
+
+```javascript
+let firstName = 'Liam';
+let age = 21;
+let student = true;
+
+age = age + 1;
+
+console.log("Hello", firstName); // Hello Liam
+console.log("You are", age, "years old"); // You are 22 years old
+console.log("Enrolled:", student); // Enrolled: true
+```
+
+## Changing the DOM via JS
+
+```html
+    <p id="p1"></p>
+    <p id="p2"></p>
+    <p id="p3"></p>
 ```
 
 
