@@ -7,6 +7,7 @@ Tags:
 * ## [[Arithmetic Expressions]] : [00:16:32](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=992s)
 * ## [[User Input]] : [00:21:14](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1274s)
 * ## [[Type Conversion]] : [00:25:41](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1541s)
+* ## [[const]] : [00:30:11](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1811s)
 * 
 
 

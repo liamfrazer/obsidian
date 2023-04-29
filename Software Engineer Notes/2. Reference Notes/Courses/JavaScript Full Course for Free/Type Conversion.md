@@ -23,14 +23,19 @@ number
 Happy Birthday! You Are 23 years old
 ```
 
+```javascript
+let x;
+let y;
+let z;
 
-
-
-
-
-
-
-
+x = Number("3.14");
+y = String(3.14);
+z = Boolean("");
+  
+console.log(x, typeof x); // 3.14 number
+console.log(y, typeof y); // "3.14" string
+console.log(z, typeof z); // false boolean
+```
 
 
 ___
