@@ -4,7 +4,7 @@ Tags:
 
 # JavaScript
 ## JavaScript Full Course
-* ## [[2. Reference Notes/Courses/JavaScript Full Course for Free/Variables |Variables]] : [00:08:02](https://www.youtube.com/watch?v=8dWL3wF_OMw&t=482s)
+* ## [[Variables |Variables]] : [00:08:02](https://www.youtube.com/watch?v=8dWL3wF_OMw&t=482s)
 * ## [[Arithmetic Expressions]] : [00:16:32](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=992s)
 * ## [[User Input]] : [00:21:14](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1274s)
 * ## [[Type Conversion]] : [00:25:41](https://www.youtube.com/watch?v=8dWL3wF_OMw&list=PL3k5VlZzpQyEz03mNlmU50YcIJ6vEDz95&index=1&t=1541s)

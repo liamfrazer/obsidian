@@ -4,6 +4,8 @@ Tags:
 
 # Mindset of Successful Programmers
 
+## Focus on Practice
+
 
 
 ___
@@ -13,4 +15,5 @@ ___
 
 ---
 # References
+[Mindset of Successful Programmers](https://www.youtube.com/watch?v=nogh434ykF0)
 [[Videos]]
