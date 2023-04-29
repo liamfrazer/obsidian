@@ -4,13 +4,14 @@ Tags: [[JavaScript]]
 
 # User Input
 
-## How to accept user input
-
-
 ## Easy with with a window prompt
 
+```javascript
+let username = window.prompt("What's your name?");
+console.log(username); // Liam
+```
 
-##
+## Difficult way with HTML textbox
 
 
 
