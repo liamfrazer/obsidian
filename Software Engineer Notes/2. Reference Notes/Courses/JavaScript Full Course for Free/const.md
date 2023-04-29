@@ -6,6 +6,18 @@ Tags: [[JavaScript]]
 
 * A `const` is a variable that can't be changed once declared
 
+```javascript
+let pi = 3.14159;
+let radius;
+let circumference;
+
+radius = window.prompt("Enter the radius of a circle"); // 10
+radius = Number(radius);
+
+circumference = 2 * pi * radius; // 2 * 3.14159 * 10
+
+console.log("The circumference is: ", circumference); // 62.8318
+```
 
 
 
