@@ -89,8 +89,13 @@
             "id": "f009fdcfa065f8d7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -153,6 +158,7 @@
       {
         "id": "a07d5ba9fcd0d3dc",
         "type": "tabs",
+        "dimension": 62.205882352941174,
         "children": [
           {
             "id": "5b2bc0126209a9ce",
@@ -160,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Zettelkasten/Focusing Your Unconscious Mind.md"
+              }
             }
           },
           {
@@ -209,7 +219,22 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "5eb784d1af9bcba4",
+        "type": "tabs",
+        "dimension": 37.794117647058826,
+        "children": [
+          {
+            "id": "0d13fc1c6689b949",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
