@@ -5,8 +5,15 @@ Tags: [[JavaScript]]
 # Arithmetic Expressions
 
 * Arithmetic expressions is a combination of;
-* 1. Operands (values, variables, etc..)
-* 2. 
+1. Operands (values, variables, etc..)
+2. Operators (+ - * / %)
+* These can then be evaluated to a value
+* `y = x + 5`
+
+* The modulus is `%`, it gives you the remainder of any division
+
+
+
 
 
 
