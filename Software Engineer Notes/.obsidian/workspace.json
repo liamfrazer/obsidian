@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Counter Program.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Counter Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Counter Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. MOC/JavaScript.md"
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Counter Program.md"
               }
             }
           },
@@ -176,8 +176,11 @@
   },
   "active": "507f59e1c56a2157",
   "lastOpenFiles": [
-    "2. Reference Notes/Courses/JavaScript Full Course for Free/Hypotenuse Calculator.md",
+    "1. Zettelkasten/Focusing Your Unconscious Mind.md",
+    "1. Zettelkasten/Prompt Engineering.md",
+    "2. Reference Notes/Courses/JavaScript Full Course for Free/Counter Program.md",
     "5. MOC/JavaScript.md",
+    "2. Reference Notes/Courses/JavaScript Full Course for Free/Hypotenuse Calculator.md",
     "5. MOC/Projects.md",
     "5. MOC/Videos.md",
     "index.md",
@@ -195,8 +198,6 @@
     "4. Templates/JavaScript Note Template.md",
     "4. Templates/Fleeting Note Template.md",
     "2. Reference Notes/JavaScript/Arrays.md",
-    "1. Zettelkasten/Focusing Your Unconscious Mind.md",
-    "1. Zettelkasten/Prompt Engineering.md",
     "3. Files/Pasted image 20230428230152.png",
     "3. Files/Pasted image 20230428223701.png",
     "2. Reference Notes/Untitled.md",
@@ -205,7 +206,6 @@
     "2. Reference Notes/JavaScript/Classes and Inheritance.md",
     "2. Reference Notes/JavaScript/Conditional Statements.md",
     "2. Reference Notes/JavaScript/Data Types.md",
-    "2. Reference Notes/JavaScript/Destructuring.md",
     "2. Reference Notes/Projects",
     "3. Files/Infinite Scroll Functionality.png",
     "2. Reference Notes/Courses",
