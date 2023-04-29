@@ -7,6 +7,7 @@ Tags: [[JavaScript]]
 ## Window Prompt
 
 
+
 ## HTML Text Boxes
 
 
