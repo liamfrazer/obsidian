@@ -6,11 +6,24 @@ Tags: [[JavaScript]]
 
 * Type conversion = Change the data type of a value to another
 * Examples would be strings, numbers, Booleans
-
+* `typeof` can display the variable type
 
 ```javascript
-
+let age = window.prompt("How old are you?"); // User Inputs age
+console.log(typeof age); // string
+age = Number(age) // Convert age to a number
+console.log(typeof age); // number
+age += 1; // User input + 1
+console.log("Happy Birthday! You Are", age, "years old"); // Age = User Input + 1
 ```
+
+```console
+string 
+number 
+Happy Birthday! You Are 23 years old
+```
+
+
 
 
 
