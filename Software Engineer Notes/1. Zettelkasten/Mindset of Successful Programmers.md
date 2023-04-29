@@ -12,7 +12,20 @@ Tags:
 * Swallowing pride when doing HTML/CSS courses
 ## Get Comfortable being Uncomfortable
 * Manage information
-* Think fr
+* Think from first principles
+* Research and apply solutions
+* `Change I can't do it to I can learn to do it`
+## You will never be a master, but being a student is so much better
+* Think > Code > Commit
+* Apply programming concepts and improve
+* I don't get it > let me build something > I get it now
+## Expectations of a Junior Developer
+* Know the first principles of a stack
+* Know git fundamentals (pull, push, commit)
+* Willing and actively seeking to learn
+* Persistent with solo problem solving
+* Never afraid to ask the question
+* 
 
 
 ___
