@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/const.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Math.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/const.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/const.md",
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/const.md"
+                "file": "2. Reference Notes/Courses/JavaScript Full Course for Free/Math.md"
               }
             }
           },
@@ -188,9 +188,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "16dcc59d5a24ade7",
+  "active": "659eb7cc6c04af3d",
   "lastOpenFiles": [
     "5. MOC/JavaScript.md",
+    "2. Reference Notes/Courses/JavaScript Full Course for Free/Math.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free/const.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free/Type Conversion.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free/Variables.md",
@@ -219,7 +220,6 @@
     "2. Reference Notes/JavaScript/Data Types.md",
     "2. Reference Notes/JavaScript/Destructuring.md",
     "2. Reference Notes/JavaScript/DOM Manipulation.md",
-    "2. Reference Notes/JavaScript/Event Handling.md",
     "2. Reference Notes/Projects",
     "3. Files/Infinite Scroll Functionality.png",
     "2. Reference Notes/Courses",
