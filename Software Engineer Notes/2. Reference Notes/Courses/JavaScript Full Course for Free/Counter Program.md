@@ -24,7 +24,6 @@ button {
 }
 ```
 
-
 ```javascript
 let count = 0;
 
