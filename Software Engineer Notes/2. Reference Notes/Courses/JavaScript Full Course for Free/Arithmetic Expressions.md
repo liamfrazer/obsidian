@@ -10,9 +10,22 @@ Tags: [[JavaScript]]
 * These can then be evaluated to a value
 * `y = x + 5`
 
+```javascript
+let students = 20;
+
+students = students + 1; // 21
+
+students = students - 1; // 19
+
+students = students * 2; // 40
+
+students = students / 2; // 10
+
+let extraStudents = students % 3; // 2
+```
 * The modulus is `%`, it gives you the remainder of any division
 
-
+## Augmented Assignment Operator
 
 
 
