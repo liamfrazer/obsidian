@@ -16,6 +16,24 @@ let x = Math.floor(Math.random() * 6) + 1;
 console.log("Number:", x);
 ```
 
+## Rolling 3 dice following DRY
+
+```javascript
+let roll = () => {
+    let rolls = [];
+    for (let i = 0; i < 4; i++) {
+        let roll = Math.floor(Math.random() * 6) + 1;
+        rolls.push(roll)
+    }
+    return rolls;
+}
+
+let [roll1, roll2, roll3] = roll();
+
+console.log("1:", roll1);
+console.log("2:", roll2);
+console.log("3:", roll3);
+```
 
 
 
