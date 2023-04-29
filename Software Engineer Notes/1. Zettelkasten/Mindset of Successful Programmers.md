@@ -25,7 +25,6 @@ Tags:
 * Willing and actively seeking to learn
 * Persistent with solo problem solving
 * Never afraid to ask the question
-* 
 
 
 ___
