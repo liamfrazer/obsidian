@@ -35,6 +35,30 @@ console.log("2:", roll2);
 console.log("3:", roll3);
 ```
 
+```javascript
+const rollBtn = document.getElementById("rollBtn");
+const label1 = document.getElementById("roll1");
+const label2 = document.getElementById("roll2");
+const label3 = document.getElementById("roll3");
+
+let roll1, roll2, roll3;
+
+const roll = () => {
+    let rolls = [];
+    for (let i = 0; i < 4; i++) {
+        let result = Math.floor(Math.random() * 6) + 1;
+        rolls.push(result)
+    }
+    return rolls;
+}
+
+rollBtn.onclick = function () {
+    [roll1, roll2, roll3] = roll();
+    label1.innerHTML = roll1;
+    label2.innerHTML = roll2;
+    label3.innerHTML = roll3;
+}
+```
 
 
 
