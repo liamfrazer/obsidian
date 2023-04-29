@@ -7,34 +7,28 @@ Tags: [[JavaScript]]
 * A variable is a container for storing data.
 * A variable behaves as if it was the value that it contains
 
-## Two steps
+## Declaration & Assignment
 1. Declaration (`var`, `let`, `const`)
 2. Assignment (`=` assignment operator)
 
 * In programming, you want a variable to be descriptive of what it contains
 * There may be times where you need to declare a variable, but assign a value later on
 
-```js
-let studentAge;
-studentAge = 21;
-console.log(studentAge); // 21
-```
-
+## Data Types
 ```javascript
-let studantAge = 21;
-console.log(studentAge); // 21
-```
+let firstName = 'Liam';
 
-## Number Data Type
+let age = 21;
 
-```javascript
-et age = 21;
-age = age + 1;
+let student = true;
+
+  
+
+console.log(firstName); // Liam
+
 console.log(age); // 22
+console.log(student); // true
 ```
-
-## String Data Type
-
 
 
 
