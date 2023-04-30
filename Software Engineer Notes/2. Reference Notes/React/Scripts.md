@@ -13,7 +13,35 @@ Tags: [[React]]
 * PWA allows users to use the website while offline
 * 
 * A component is a self contained piece of code returning a UI, all HTML/CSS/JS is contained within a function
-* 
+
+
+```javascript
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Hello my name is Liam.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
+}
+
+export default App;
+```
 
 
 
