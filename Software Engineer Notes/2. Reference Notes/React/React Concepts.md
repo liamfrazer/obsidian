@@ -7,6 +7,7 @@ Tags: [[React]]
 ## Don't touch the DOM, I'll Do It
 ## Build websites like Lego blocks
 ## Unidirectional data flow
+## UI, the rest is up to you
 
 
 
