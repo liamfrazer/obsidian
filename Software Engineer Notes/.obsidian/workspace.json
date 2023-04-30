@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/JavaScript/Random Number Generator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/JavaScript/Random Number Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. MOC/JavaScript.md",
+                "file": "2. Reference Notes/JavaScript/Random Number Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. MOC/JavaScript.md"
+                "file": "2. Reference Notes/JavaScript/Random Number Generator.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "0d58a437838b38f7",
   "lastOpenFiles": [
+    "5. MOC/JavaScript.md",
     "2. Reference Notes/JavaScript/Variables.md",
     "2. Reference Notes/JavaScript/User Input.md",
     "1. Zettelkasten/Prompt Engineering.md",
@@ -204,7 +205,6 @@
     "1. Zettelkasten/Mindset of Successful Programmers.md",
     "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "2. Reference Notes/Projects/Infinity Scroll Project.md",
-    "5. MOC/JavaScript.md",
     "5. MOC/Projects.md",
     "5. MOC/Videos.md",
     "5. MOC/Courses.md",
