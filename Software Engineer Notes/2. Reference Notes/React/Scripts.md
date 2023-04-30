@@ -10,8 +10,10 @@ Tags: [[React]]
 
 * Babel translate code to basic JavaScript
 * Chunking via webhack, module being a chunk
+* PWA allows users to use the website while offline
 * 
-
+* A component is a self contained piece of code returning a UI, all HTML/CSS/JS is contained within a function
+* 
 
 
 
