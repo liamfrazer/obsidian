@@ -8,7 +8,9 @@ Tags: [[React]]
 * NPX downloads the latest package, then removes it
 * Environment isn't clogged up
 
-
+* Babel translate code to basic JavaScript
+* Chunking via webhack, module being a chunk
+* 
 
 
 
