@@ -60,6 +60,45 @@ rollBtn.onclick = function () {
 }
 ```
 
+## 7 Number Generator & Saver
+
+```javascript
+const num1 = document.getElementById("label1");
+const num2 = document.getElementById("label2");
+const num3 = document.getElementById("label3");
+const num4 = document.getElementById("label4");
+const num5 = document.getElementById("label5");
+const num6 = document.getElementById("label6");
+const num7 = document.getElementById("label7");
+
+const numberLabels = [num1, num2, num3, num4, num5, num6, num7];
+const prevResults = document.getElementById("prevResultsLabel")
+
+const rollBtn = document.getElementById("rollBtn");
+const resetBtn = document.getElementById("resetBtn");
+
+const reset = () => {
+    for (let i = 0; i < numberLabels.length; i++) {
+        numberLabels[i].innerHTML = "0";
+        prevResults.innerHTML = "";
+    }
+}
+
+const roll = () => {
+    for (let i = 0; i < numberLabels.length; i++) {
+        let result = Math.floor(Math.random() * 59) + 1;
+        result = Number(result)    
+        
+        numberLabels[i].innerHTML = result;
+        prevResults.innerHTML += result + " ";
+    }
+}
+
+rollBtn.onclick = roll;
+resetBtn.onclick = reset;
+
+reset();
+```
 
 
 
