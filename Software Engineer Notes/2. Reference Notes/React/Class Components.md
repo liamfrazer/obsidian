@@ -17,8 +17,6 @@ Tags: [[React]]
 ```javascript
 import { Component } from 'react';
 
-  
-
 import logo from './logo.svg';
 
 import './App.css';
