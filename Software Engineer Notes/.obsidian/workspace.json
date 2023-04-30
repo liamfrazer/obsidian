@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Hypotenuse Calculator.md",
+                "file": "2. Reference Notes/JavaScript/Random Number Generator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Hypotenuse Calculator.md",
+                "file": "2. Reference Notes/JavaScript/Random Number Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Hypotenuse Calculator.md",
+                "file": "2. Reference Notes/JavaScript/Random Number Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/JavaScript/Hypotenuse Calculator.md"
+                "file": "2. Reference Notes/JavaScript/Random Number Generator.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "0d58a437838b38f7",
   "lastOpenFiles": [
+    "2. Reference Notes/JavaScript/Hypotenuse Calculator.md",
     "2. Reference Notes/JavaScript/Random Number Generator.md",
     "5. MOC/JavaScript.md",
     "2. Reference Notes/JavaScript/Variables.md",
@@ -197,7 +198,6 @@
     "1. Zettelkasten/Prompt Engineering.md",
     "2. Reference Notes/JavaScript/Type Conversion.md",
     "2. Reference Notes/JavaScript/Math.md",
-    "2. Reference Notes/JavaScript/Hypotenuse Calculator.md",
     "2. Reference Notes/JavaScript/Counter Program.md",
     "2. Reference Notes/JavaScript/const.md",
     "2. Reference Notes/JavaScript/Arithmetic Expressions.md",
