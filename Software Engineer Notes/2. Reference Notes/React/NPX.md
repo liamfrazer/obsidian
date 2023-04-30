@@ -4,7 +4,8 @@ Tags: [[React]]
 
 # NPX
 
-
+* Directly installs all the required files and then executes it immediatly
+* 
 
 
 
