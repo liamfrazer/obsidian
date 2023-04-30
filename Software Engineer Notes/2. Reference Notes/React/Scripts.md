@@ -2,12 +2,13 @@
 Status: #Documentation 
 Tags: [[React]]
 
-# NPX
+# Scripts
 
 * Directly installs all the required files and then executes it immediately
 * NPX downloads the latest package, then removes it
 * Environment isn't clogged up
-* 
+
+
 
 
 

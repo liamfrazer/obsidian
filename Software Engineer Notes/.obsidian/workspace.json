@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/NPX.md",
+                "file": "2. Reference Notes/React/Scripts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/NPX.md",
+                "file": "2. Reference Notes/React/Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/NPX.md",
+                "file": "2. Reference Notes/React/Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/NPX.md"
+                "file": "2. Reference Notes/React/Scripts.md"
               }
             }
           },
@@ -217,7 +217,7 @@
   "active": "63bece418d58f5f2",
   "lastOpenFiles": [
     "2. Reference Notes/React/React Concepts.md",
-    "2. Reference Notes/React/NPX.md",
+    "2. Reference Notes/React/Scripts.md",
     "4. Templates/JavaScript Note Template.md",
     "4. Templates/React Note Template.md",
     "5. MOC/React.md",
