@@ -10,7 +10,74 @@ Tags: [[React]]
 
 * Something is done rendering as soon as the user can interact with it
 * JSX is a syntax extension of JavaScript
-* 
+
+## First example of a class component
+
+
+```javascript
+import { Component } from 'react';
+
+  
+
+import logo from './logo.svg';
+
+import './App.css';
+
+  
+
+class App extends Component {
+
+  // function App() {
+
+  render() {
+
+    return (
+
+      <div className="App" >
+
+        <header className="App-header">
+
+          <img src={logo} className="App-logo" alt="logo" />
+
+          <p>
+
+            Hello my name is Liam.
+
+          </p>
+
+          <a
+
+            className="App-link"
+
+            href="https://reactjs.org"
+
+            target="_blank"
+
+            rel="noopener noreferrer"
+
+          >
+
+            Learn React
+
+          </a>
+
+        </header>
+
+      </div>
+
+    );
+
+  }
+
+  
+
+}
+
+  
+
+export default App;
+```
+
 
 
 
