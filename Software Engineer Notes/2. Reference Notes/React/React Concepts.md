@@ -16,7 +16,12 @@ Tags: [[React]]
 * State
 * Props
 * VirtualDOM
-* 
+
+
+## The job of a React developer
+* Decide on components
+* Decide the State and where it lives
+* What changes when state changes
 
 
 
