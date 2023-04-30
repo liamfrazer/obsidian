@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/Declarative vs Imperative.md",
+                "file": "2. Reference Notes/React/React Concepts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/Declarative vs Imperative.md",
+                "file": "2. Reference Notes/React/React Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/Declarative vs Imperative.md",
+                "file": "2. Reference Notes/React/React Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/Declarative vs Imperative.md"
+                "file": "2. Reference Notes/React/React Concepts.md"
               }
             }
           },
@@ -205,7 +205,7 @@
   "lastOpenFiles": [
     "4. Templates/JavaScript Note Template.md",
     "4. Templates/React Note Template.md",
-    "2. Reference Notes/React/Declarative vs Imperative.md",
+    "2. Reference Notes/React/React Concepts.md",
     "5. MOC/React.md",
     "5. MOC/JavaScript.md",
     "5. MOC/Projects.md",

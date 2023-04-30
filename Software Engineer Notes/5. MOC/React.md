@@ -5,4 +5,4 @@ Tags:
 # React
 
 ## Complete React Developer in 2023
-### [[Declarative vs Imperative]]
+### [[React Concepts]]
