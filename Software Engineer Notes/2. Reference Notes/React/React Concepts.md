@@ -9,6 +9,15 @@ Tags: [[React]]
 ## Unidirectional data flow
 ## UI, the rest is up to you
 
+## React Keywords
+* Declarative - We provide state, components, props to an object, which creates a virtual DOM, which is used by the React library
+* JSX
+* Components
+* State
+* Props
+* VirtualDOM
+* 
+
 
 
 
