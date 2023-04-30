@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "5. MOC/JavaScript.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "5. MOC/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "5. MOC/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md"
+                "file": "5. MOC/JavaScript.md"
               }
             }
           },
@@ -190,7 +190,9 @@
   },
   "active": "0d58a437838b38f7",
   "lastOpenFiles": [
+    "2. Reference Notes/JavaScript/Variables.md",
     "2. Reference Notes/JavaScript/User Input.md",
+    "1. Zettelkasten/Prompt Engineering.md",
     "2. Reference Notes/JavaScript/Type Conversion.md",
     "2. Reference Notes/JavaScript/Random Number Generator.md",
     "2. Reference Notes/JavaScript/Math.md",
@@ -200,7 +202,6 @@
     "2. Reference Notes/JavaScript/Arithmetic Expressions.md",
     "1. Zettelkasten/Question Driven Development.md",
     "1. Zettelkasten/Mindset of Successful Programmers.md",
-    "1. Zettelkasten/Prompt Engineering.md",
     "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "2. Reference Notes/Projects/Infinity Scroll Project.md",
     "5. MOC/JavaScript.md",
@@ -211,7 +212,6 @@
     "5. MOC/CSS.md",
     "2. Reference Notes/JavaScript/Arrays.md",
     "index.md",
-    "2. Reference Notes/JavaScript/Variables.md",
     "4. Templates/Console Code Block.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "4. Templates/JavaScript Note Template.md",
