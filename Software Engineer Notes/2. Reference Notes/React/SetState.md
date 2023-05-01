@@ -42,6 +42,22 @@ this.setState({}) // Provide an object you want to shallow merge with your curre
 * A shallow merge, will update and change the state object
 
 
+## ChatGPT
+In React, `setState()` is an asynchronous operation. When you call `setState()`, React schedules an update to the component's state and re-renders the component. The new state is not immediately available after calling `setState()`. Therefore, the `console.log()` statement that you have added will still show the old state value when it is executed.
+
+If you want to access the updated state value after calling `setState()`, you can pass a callback function as the second argument to `setState()`. This callback function will be executed after the state update is completed and the component is re-rendered. For example:
+
+```
+<button onClick={() => {
+  this.setState({ name: 'Frazer' }, () => {
+    console.log(this.state);
+  });
+}}>
+  Change Name
+</button>
+```
+
+By passing the `console.log()` statement as a callback function, you can ensure that it is executed after the state update is completed and the component is re-rendered, and thus it will log the updated state value.
 
 
 

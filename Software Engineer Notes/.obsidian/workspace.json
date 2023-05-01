@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md",
+                "file": "2. Reference Notes/React/SetState.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md",
+                "file": "2. Reference Notes/React/SetState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md",
+                "file": "2. Reference Notes/React/SetState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md"
+                "file": "2. Reference Notes/React/SetState.md"
               }
             }
           },
@@ -268,8 +268,8 @@
   },
   "active": "98bf57e8123a13d3",
   "lastOpenFiles": [
-    "2. Reference Notes/React/SetState.md",
     "2. Reference Notes/React/States and Shallow Merge.md",
+    "2. Reference Notes/React/SetState.md",
     "2. Reference Notes/React/Component State.md",
     "2. Reference Notes/React/Class Components.md",
     "2. Reference Notes/React/Scripts.md",
