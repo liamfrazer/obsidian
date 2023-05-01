@@ -22,10 +22,24 @@ Tags: [[React]]
 const obj1 = {name: 'Liam'}
 const obj2 = obj1
 
-obj2 === obj1
+obj2 === obj1 // true as same object in memory
+
+obj1.name = 'Frazer'
+obj2 // {name: 'Liam'}
+
+const obj3 = Object.assign({}, obj1)
+
+obj3
+obj1 === obj3 // false as not the same object in memory
 ```
 
+* React will decide to re-render a component when state is a completely different object in memory.
 
+
+```javascript
+this.setState({}) // Provide an object you want to shallow merge with your current object
+```
+* A shallow merge, will update and change the state object
 
 
 
