@@ -28,7 +28,7 @@ class App extends Component {
 Hi {this.state.name} // Hi Liam
 ```
 
-
+* Whenever the variable `this.state.name` changes, React will re-render this
 
 
 
