@@ -23,6 +23,10 @@ Tags:
 	* Take all the different Xs, use data to confirm this is true
 	* Goal is to eliminate the ones that don't have an impact on the output
 	* This is going into Root cause analysis
+* Methodology
+	* Six sigma itself is the goal, not the method
+	* Minimising the process variation
+	* Shifting your process average so that it is centred between your customer's spec limits
 
 
 ___
