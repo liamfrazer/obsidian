@@ -42,8 +42,14 @@ Hi {this.state.name}, I work at {this.state.company}
 ```
 
 * Our code is looking for this.state.name.lastname, whereas our setState is only passing through a string
-* React doesn't care with the shallow merge,
+* React doesn't care with the shallow merge
 
+* When updating state, we want to ensure we use the same type of values,
+
+
+```javascript
+this.setState({ name: { firstName: 'Frazer', lastName: 'Liam' } });
+```
 
 
 
