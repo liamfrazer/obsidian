@@ -60,7 +60,13 @@ Tags: [[Methodologies]]
 		* Refine Process understanding
 		* Determine Process stability
 		* Determine process capability
-* 
+* Analyse
+	* The analyse phase is all about establishing verified drivers
+	* Use stats and higher-order analytics to discover relationships between process performance and process inputs
+	* Establishes a reliable hypothesis for improvement solutions
+		* Establish the Transfer Function Y = f(x)
+		* Validate the list of Critical X's and impacts
+		* Create a Beta improvement plan
 
 
 ___
