@@ -16,7 +16,9 @@ Tags: [[React]]
       </div >
 ```
 
-
+## .map() method
+* The .map() method allows you to iterate over every single element inside an array, giving you back a new array
+* 
 
 
 
