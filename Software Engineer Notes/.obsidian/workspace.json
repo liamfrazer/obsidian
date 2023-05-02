@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ac374ec125e1c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Zettelkasten/NFT Card-Marketplace.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
+                "file": "1. Zettelkasten/NFT Card-Marketplace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
+                "file": "1. Zettelkasten/NFT Card-Marketplace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md"
+                "file": "1. Zettelkasten/NFT Card-Marketplace.md"
               }
             }
           },
@@ -209,10 +222,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "2a3c5e2c766e07dd",
+  "active": "6ac374ec125e1c67",
   "lastOpenFiles": [
-    "2. Reference Notes/React/setState and Secondary Callback.md",
     "2. Reference Notes/React/Mapping Arrays to Elements.md",
+    "1. Zettelkasten/NFT Card-Marketplace.md",
+    "2. Reference Notes/React/setState and Secondary Callback.md",
     "2. Reference Notes/React/States and Shallow Merge.md",
     "1. Zettelkasten/Lean Six Sigma.md",
     "1. Zettelkasten/Prompt Engineering.md",
@@ -237,7 +251,6 @@
     "2. Reference Notes/JavaScript/Hypotenuse Calculator.md",
     "2. Reference Notes/JavaScript/Variables.md",
     "2. Reference Notes/JavaScript/User Input.md",
-    "2. Reference Notes/JavaScript/Type Conversion.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
     "3. Files/Pasted image 20230428223701.png",
