@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/setState and Secondary Callback.md",
+                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/setState and Secondary Callback.md",
+                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/setState and Secondary Callback.md",
+                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/setState and Secondary Callback.md"
+                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md"
               }
             }
           },
@@ -211,8 +211,9 @@
   },
   "active": "2a3c5e2c766e07dd",
   "lastOpenFiles": [
-    "2. Reference Notes/React/States and Shallow Merge.md",
     "2. Reference Notes/React/setState and Secondary Callback.md",
+    "2. Reference Notes/React/Mapping Arrays to Elements.md",
+    "2. Reference Notes/React/States and Shallow Merge.md",
     "1. Zettelkasten/Lean Six Sigma.md",
     "1. Zettelkasten/Prompt Engineering.md",
     "1. Zettelkasten/Question Driven Development.md",
@@ -237,7 +238,6 @@
     "2. Reference Notes/JavaScript/Variables.md",
     "2. Reference Notes/JavaScript/User Input.md",
     "2. Reference Notes/JavaScript/Type Conversion.md",
-    "2. Reference Notes/JavaScript/Math.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
     "3. Files/Pasted image 20230428223701.png",
