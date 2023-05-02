@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,15 +183,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "98bf57e8123a13d3",
+  "active": "0d13fc1c6689b949",
   "lastOpenFiles": [
+    "2. Reference Notes/React/States and Shallow Merge.md",
     "1. Zettelkasten/Lean Six Sigma.md",
     "1. Zettelkasten/Prompt Engineering.md",
     "1. Zettelkasten/Question Driven Development.md",
     "1. Zettelkasten/Mindset of Successful Programmers.md",
     "5. MOC/Methodologies.md",
     "5. MOC/Videos.md",
-    "2. Reference Notes/React/States and Shallow Merge.md",
     "2. Reference Notes/React/SetState.md",
     "2. Reference Notes/React/Component State.md",
     "2. Reference Notes/React/Class Components.md",
