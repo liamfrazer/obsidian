@@ -81,6 +81,7 @@ Tags: [[Methodologies]]
 	* Successful control plan also establishes a reaction and mitigation plan as well as accountability structure
 
 
+
 ___
 # Flashcards
 
