@@ -24,6 +24,16 @@ Tags: [[React]]
 * The follow code can also be used:
 
 
+```javascript
+          <button onClick={() => {
+
+            this.setState(() => { }, () => { })
+
+          }}
+```
+* The first function is an updater function
+* This is used to return an object that is then used to shallow merge against state
+* 
 
 
 
