@@ -18,7 +18,18 @@ Tags: [[React]]
 
 ## .map() method
 * The .map() method allows you to iterate over every single element inside an array, giving you back a new array
-* 
+
+
+```javascript
+      <div className="App" >
+        {
+          this.state.monsters.map((monster) => {
+            return <h1>{monster.name}</h1>
+          })
+        }
+      </div >
+```
+
 
 
 
