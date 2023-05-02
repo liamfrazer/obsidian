@@ -33,7 +33,34 @@ Tags: [[React]]
 ```
 * The first function is an updater function
 * This is used to return an object that is then used to shallow merge against state
-* 
+
+
+```javascript
+          <button onClick={() => {
+
+            this.setState(() => {
+
+              return {
+
+                name: { firstName: 'Frazer', lastName: 'Liam' },
+
+              }
+
+            }, () => { })
+
+          }}
+```
+* We're passing a function that returns the object we want to shallow merge, we get access to both state and props
+
+```javascript
+this.setState((state, props) => {
+```
+* state is equal to the current state
+* This allows us to update the state based on our previous value from the current state
+
+
+* The second argument/function allows us to c
+
 
 
 
