@@ -81,6 +81,15 @@ Tags: [[Methodologies]]
 	* Successful control plan also establishes a reaction and mitigation plan as well as accountability structure
 
 
+* 7 Deadly MUDA
+	* Defects
+	* Overprodution
+	* Over-processing
+	* Inventory
+	* Motion
+	* Transportaion
+	* Waiting
+
 
 ___
 # Flashcards
