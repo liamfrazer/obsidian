@@ -8,97 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "507f59e1c56a2157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Zettelkasten/Mindset of Successful Programmers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d58a437838b38f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Reference Notes/Projects/Infinity Scroll Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3b6aa84db1da67c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Reference Notes/React/React Concepts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63bece418d58f5f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Reference Notes/React/Scripts.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "297873aa12234fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Reference Notes/React/Class Components.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c4dd49e966e45f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Reference Notes/React/Component State.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40bfa931ceb3dc25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Reference Notes/React/SetState.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "98bf57e8123a13d3",
             "type": "leaf",
             "state": {
@@ -110,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "717ee499f4a2c0b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Zettelkasten/Lean Six Sigma.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md",
+                "file": "1. Zettelkasten/Lean Six Sigma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md",
+                "file": "1. Zettelkasten/Lean Six Sigma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md"
+                "file": "1. Zettelkasten/Lean Six Sigma.md"
               }
             }
           },
@@ -266,10 +188,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "98bf57e8123a13d3",
+  "active": "717ee499f4a2c0b9",
   "lastOpenFiles": [
-    "2. Reference Notes/React/SetState.md",
     "2. Reference Notes/React/States and Shallow Merge.md",
+    "1. Zettelkasten/Lean Six Sigma.md",
+    "2. Reference Notes/React/SetState.md",
     "2. Reference Notes/React/Component State.md",
     "2. Reference Notes/React/Class Components.md",
     "2. Reference Notes/React/Scripts.md",
@@ -294,7 +217,6 @@
     "2. Reference Notes/JavaScript/Arithmetic Expressions.md",
     "1. Zettelkasten/Question Driven Development.md",
     "1. Zettelkasten/Mindset of Successful Programmers.md",
-    "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
     "3. Files/Pasted image 20230428223701.png",
