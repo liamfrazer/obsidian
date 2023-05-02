@@ -49,10 +49,18 @@ Tags: [[Methodologies]]
 		* Voice of the customer
 		* Voice of the business
 * Measure
-	* Measuree phase is to gather baseline information about the process
+	* Measure phase is to gather baseline information about the process
 		* process performance, inputs, measures, customer expectations
 	* You will seek to achieve a few important objectives
-		* Gather all possible
+		* Gather all possible X's
+		* Assess measurement system and data collection requirements
+		* Validate assumptions
+		* Validate improvement goals
+		* Determine COPQ - Cost of poor quality
+		* Refine Process understanding
+		* Determine Process stability
+		* Determine process capability
+* 
 
 
 ___
