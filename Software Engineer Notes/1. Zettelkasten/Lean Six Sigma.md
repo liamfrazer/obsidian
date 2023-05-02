@@ -76,7 +76,9 @@ Tags: [[Methodologies]]
 		* Revised Business case with ROI
 		* Risk Assessment/Updated FMEA
 		* New Process Capability and Sigma
-* 
+* Control
+	* Establish automated and managed mechanisms to maintain and sustain your improvement
+	* Successful control plan also establishes a reaction and mitigation plan as well as accountability structure
 
 
 ___
