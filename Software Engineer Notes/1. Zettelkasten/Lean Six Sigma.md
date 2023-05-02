@@ -67,6 +67,16 @@ Tags: [[Methodologies]]
 		* Establish the Transfer Function Y = f(x)
 		* Validate the list of Critical X's and impacts
 		* Create a Beta improvement plan
+* Improve
+	* Make the improvement
+		* Designing, testing and implementing your solution
+		* Stat Proven Results from Active/Study
+		* Improvement/Implementation Plan
+		* Updated Stakeholder Assessment
+		* Revised Business case with ROI
+		* Risk Assessment/Updated FMEA
+		* New Process Capability and Sigma
+* 
 
 
 ___
