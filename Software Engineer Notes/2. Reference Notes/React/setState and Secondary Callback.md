@@ -59,7 +59,36 @@ this.setState((state, props) => {
 * This allows us to update the state based on our previous value from the current state
 
 
-* The second argument/function allows us to c
+* The second argument/function allows us to callback, the callback just means that once the first function has finished, we're able to call back
+
+```javascript
+          <button onClick={() => {
+
+            this.setState(() => {
+
+              return {
+
+                name: { firstName: 'Frazer', lastName: 'Liam' },
+
+              }
+
+            }, () => { console.log(this.state) })
+
+          }}
+```
+
+
+```console
+Object { name: {…}, company: "ZTM" }
+company: "ZTM"
+name: Object { firstName: "Frazer", lastName: "Liam" }
+firstName: "Frazer"
+lastName: "Liam"
+```
+* The callback function will only run once all of the state changes had been applied
+* This format is the ideal/optimal way that the setState code should be used in class components
+* The callback function is entirely optional if we do/don't want to use it
+* 
 
 
 
