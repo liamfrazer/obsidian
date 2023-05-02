@@ -27,6 +27,13 @@ Tags:
 	* Six sigma itself is the goal, not the method
 	* Minimising the process variation
 	* Shifting your process average so that it is centred between your customer's spec limits
+* DMAIC
+	* Define
+	* Measure
+	* Analyze
+	* Improve
+	* Control
+* 
 
 
 ___
