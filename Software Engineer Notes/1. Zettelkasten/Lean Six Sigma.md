@@ -48,6 +48,7 @@ Tags: [[Methodologies]]
 		* stakeholders
 		* Voice of the customer
 		* Voice of the business
+* Measure
 	* 
 
 
