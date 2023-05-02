@@ -1,6 +1,6 @@
 2023-05-02 10:01
 Status: #Video 
-Tags:
+Tags: [[Methodologies]]
 
 # Lean Six Sigma
 
@@ -30,10 +30,10 @@ Tags:
 * DMAIC
 	* Define
 	* Measure
-	* Analyze
+	* Analyse
 	* Improve
 	* Control
-* 
+		* 
 
 
 ___
