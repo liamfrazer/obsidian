@@ -35,7 +35,20 @@ Tags: [[Methodologies]]
 	* Control
 		* Rooted in the principles of a five-phase project
 		* Each phase has a specific purpose and specific tools and techniques that aid in achieving the phase objects
-		* 
+* Define
+	* Establish a solid foundation
+	* Projects start with a current state challenge or problem that can be articulated in a quantifiable manner
+	* It is not enough to just know the problem, you must quantify it and also determine the goal
+	* Once Problems and goals are identified and quantified, the rest of the define phase will be about 
+		* valuation
+		* team
+		* scope
+		* project planning
+		* timeline
+		* stakeholders
+		* Voice of the customer
+		* Voice of the business
+	* 
 
 
 ___
