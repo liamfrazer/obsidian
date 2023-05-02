@@ -14,7 +14,15 @@ Tags:
 	* 
 * Six Sigma History
 	* Motorola extensively applied Six Sigma as a process management discipline
-	* 
+* Y = F(x)
+	* A transfer function is a mathematical expression of the relationship between the inputs and outputs of a system
+	* Y refers to the measure or output of the process
+	* X's are factors or inputs that affect the Y
+	* Measure  = on-time pizza deliveries
+	* X = factors that heavily influence timely deliveries
+	* Take all the different Xs, use data to confirm this is true
+	* Goal is to eliminate the ones that don't have an impact on the output
+	* This is going into Root cause analysis
 
 
 ___
