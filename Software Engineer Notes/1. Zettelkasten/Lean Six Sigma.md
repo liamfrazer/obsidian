@@ -33,6 +33,8 @@ Tags: [[Methodologies]]
 	* Analyse
 	* Improve
 	* Control
+		* Rooted in the principles of a five-phase project
+		* Each phase has a specific purpose and specific tools and techniques that aid in achieving the phase objects
 		* 
 
 
