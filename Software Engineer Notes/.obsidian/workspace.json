@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/Lean Six Sigma.md",
+                "file": "2. Reference Notes/React/Keys for Mapping.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/Lean Six Sigma.md",
+                "file": "2. Reference Notes/React/Keys for Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/Lean Six Sigma.md",
+                "file": "2. Reference Notes/React/Keys for Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/Lean Six Sigma.md"
+                "file": "2. Reference Notes/React/Keys for Mapping.md"
               }
             }
           },
@@ -224,11 +224,12 @@
   },
   "active": "6ac374ec125e1c67",
   "lastOpenFiles": [
-    "1. Zettelkasten/NFT Card-Marketplace.md",
     "2. Reference Notes/React/Mapping Arrays to Elements.md",
-    "2. Reference Notes/React/setState and Secondary Callback.md",
+    "2. Reference Notes/React/Keys for Mapping.md",
     "2. Reference Notes/React/States and Shallow Merge.md",
     "1. Zettelkasten/Lean Six Sigma.md",
+    "1. Zettelkasten/NFT Card-Marketplace.md",
+    "2. Reference Notes/React/setState and Secondary Callback.md",
     "1. Zettelkasten/Prompt Engineering.md",
     "1. Zettelkasten/Question Driven Development.md",
     "1. Zettelkasten/Mindset of Successful Programmers.md",
@@ -250,7 +251,6 @@
     "2. Reference Notes/JavaScript/Random Number Generator.md",
     "2. Reference Notes/JavaScript/Hypotenuse Calculator.md",
     "2. Reference Notes/JavaScript/Variables.md",
-    "2. Reference Notes/JavaScript/User Input.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
     "3. Files/Pasted image 20230428223701.png",
