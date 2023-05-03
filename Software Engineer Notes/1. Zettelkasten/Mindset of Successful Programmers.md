@@ -1,6 +1,6 @@
 2023-04-29 18:27
 Status: #Video
-Tags:
+Tags: [[Videos]]
 
 # Mindset of Successful Programmers
 

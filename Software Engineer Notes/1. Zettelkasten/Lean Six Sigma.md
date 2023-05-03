@@ -1,6 +1,6 @@
 2023-05-02 10:01
 Status: #Video 
-Tags: [[Methodologies]]
+Tags: [[Methodologies]] [[Videos]]
 
 # Lean Six Sigma
 
