@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md"
+                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md"
               }
             }
           },
@@ -224,32 +224,32 @@
   },
   "active": "6ac374ec125e1c67",
   "lastOpenFiles": [
-    "1. Zettelkasten/The Black Box Method.md",
+    "2. Reference Notes/React/Class Components.md",
+    "2. Reference Notes/React/setState and Secondary Callback.md",
+    "2. Reference Notes/React/Single Page Applications.md",
+    "2. Reference Notes/React/States and Shallow Merge.md",
+    "2. Reference Notes/React/Component State.md",
     "2. Reference Notes/React/componentDidMount.md",
+    "2. Reference Notes/React/Keys for Mapping.md",
+    "2. Reference Notes/React/Mapping Arrays to Elements.md",
+    "2. Reference Notes/React/React Concepts.md",
+    "2. Reference Notes/React/Scripts.md",
+    "2. Reference Notes/React/SetState.md",
+    "2. Reference Notes/JavaScript/Random Number Generator.md",
+    "1. Zettelkasten/Prompt Engineering.md",
+    "1. Zettelkasten/The Black Box Method.md",
     "1. Zettelkasten/Writing over talking.md",
     "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "1. Zettelkasten/Lean Six Sigma.md",
     "1. Zettelkasten/Mindset of Successful Programmers.md",
-    "1. Zettelkasten/Prompt Engineering.md",
     "1. Zettelkasten/Question Driven Development.md",
-    "2. Reference Notes/React/Single Page Applications.md",
-    "2. Reference Notes/React/Keys for Mapping.md",
-    "2. Reference Notes/React/Mapping Arrays to Elements.md",
-    "2. Reference Notes/React/States and Shallow Merge.md",
     "1. Zettelkasten/NFT Card-Marketplace.md",
-    "2. Reference Notes/React/setState and Secondary Callback.md",
     "5. MOC/Methodologies.md",
     "5. MOC/Videos.md",
-    "2. Reference Notes/React/SetState.md",
-    "2. Reference Notes/React/Component State.md",
-    "2. Reference Notes/React/Class Components.md",
-    "2. Reference Notes/React/Scripts.md",
-    "2. Reference Notes/React/React Concepts.md",
     "4. Templates/JavaScript Note Template.md",
     "4. Templates/React Note Template.md",
     "5. MOC/React.md",
     "5. MOC/JavaScript.md",
-    "5. MOC/Projects.md",
     "2. Reference Notes/React",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
