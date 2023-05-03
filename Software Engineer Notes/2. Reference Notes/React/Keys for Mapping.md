@@ -17,6 +17,18 @@ Warning: Each child in a list should have a unique "key" prop. Check the render 
 return <h1 key={monster.id}>{monster.name}</h1>
 ```
 * The key value is used for optimisation
+* The key value allows us to differentiate between the different key values
+* Instead of re-rendering the whole list, React can re-render a single
+* The highest level of the element should be provided the key
+
+
+```javascript
+<div key={monster.id}><h1>{monster.name}</h1></div>
+```
+* The regular HTML doesn't need the key value, but React is keeping track of the key
+* A single component would be re-rendered, rather than the whole DIV
+
+
 
 
 
