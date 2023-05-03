@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/The Black Box Method.md",
+                "file": "1. Zettelkasten/Prompt Engineering.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/The Black Box Method.md",
+                "file": "1. Zettelkasten/Prompt Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/The Black Box Method.md",
+                "file": "1. Zettelkasten/Prompt Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/The Black Box Method.md"
+                "file": "1. Zettelkasten/Prompt Engineering.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "6ac374ec125e1c67",
   "lastOpenFiles": [
-    "2. Reference Notes/React/componentDidMount.md",
     "1. Zettelkasten/The Black Box Method.md",
+    "2. Reference Notes/React/componentDidMount.md",
     "1. Zettelkasten/Writing over talking.md",
     "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "1. Zettelkasten/Lean Six Sigma.md",
