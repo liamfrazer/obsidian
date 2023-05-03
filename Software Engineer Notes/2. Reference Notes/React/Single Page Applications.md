@@ -4,7 +4,8 @@ Tags: [[React]]
 
 # Single Page Applications
 
-* 
+*  Ask an external API will display a list of users, which will then build the list
+* We have to learn how to bring the API information in
 
 
 

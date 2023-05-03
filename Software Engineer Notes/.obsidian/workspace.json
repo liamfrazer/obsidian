@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/Single Page Applications.md",
+                "file": "2. Reference Notes/React/componentDidMount.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/Single Page Applications.md",
+                "file": "2. Reference Notes/React/componentDidMount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/Single Page Applications.md",
+                "file": "2. Reference Notes/React/componentDidMount.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/Single Page Applications.md"
+                "file": "2. Reference Notes/React/componentDidMount.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "6ac374ec125e1c67",
   "lastOpenFiles": [
-    "2. Reference Notes/React/Keys for Mapping.md",
     "2. Reference Notes/React/Single Page Applications.md",
+    "2. Reference Notes/React/componentDidMount.md",
+    "2. Reference Notes/React/Keys for Mapping.md",
     "2. Reference Notes/React/Mapping Arrays to Elements.md",
     "2. Reference Notes/React/States and Shallow Merge.md",
     "1. Zettelkasten/Lean Six Sigma.md",
@@ -250,7 +251,6 @@
     "2. Reference Notes/React",
     "2. Reference Notes/Projects/Infinity Scroll Project.md",
     "2. Reference Notes/JavaScript/Random Number Generator.md",
-    "2. Reference Notes/JavaScript/Hypotenuse Calculator.md",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
     "3. Files/Pasted image 20230428223701.png",
