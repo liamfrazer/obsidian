@@ -25,7 +25,22 @@ componentDidUpdate?
 ComponentWillUnmount?
 ```
 
-* componentDidMount() is a method we have access to
+* componentDidMount() is a method we have access
+* Whatever code sits inside `componentDidMount` runs the moment the component is loaded
+* Mounting is the first time the component is on the DOM
+* This only happens once, the only re-mount is once its re-mounted, technically a different component
+
+* A promise is async in JavaScript, JavaScript fetches the data, if succussed it will come back
+
+* Every .then is going to return a Promise that has been resolved
+
+
+```javascript
+  componentDidMount() {
+    fetch('https://jsonplaceholder.typicode.com/users')
+      .then(response => response.json())
+  }
+```
 
 
 
