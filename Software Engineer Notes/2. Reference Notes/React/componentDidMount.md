@@ -55,7 +55,9 @@ ComponentWillUnmount?
   }
 ```
 
+* Whenever we have a class component, that uses a API, this should be used within componentDidMount()
 
+* 
 
 ___
 # Flashcards
