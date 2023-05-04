@@ -58,7 +58,10 @@ class App extends React.Component {
 }
 ```
 
-* .filer()
+* .filer() gives us back a new array containing a list of elements running a callback on the element within the array.
+* * If the search string includes the search string, then include it as a true
+* You want to use non-modify methods, and create a new array with the modification in
+* 
 
 
 
