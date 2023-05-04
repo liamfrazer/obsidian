@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/Optimisations.md",
+                "file": "1. Zettelkasten/The Feynman Technique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/Optimisations.md",
+                "file": "1. Zettelkasten/The Feynman Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/Optimisations.md",
+                "file": "1. Zettelkasten/The Feynman Technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/Optimisations.md"
+                "file": "1. Zettelkasten/The Feynman Technique.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "6ac374ec125e1c67",
   "lastOpenFiles": [
-    "2. Reference Notes/React/Storing Original Data.md",
     "2. Reference Notes/React/Optimisations.md",
+    "1. Zettelkasten/The Feynman Technique.md",
+    "2. Reference Notes/React/Storing Original Data.md",
     "2. Reference Notes/React/Searching and Filtering.md",
     "2. Reference Notes/JavaScript/Input Search Box Component.md",
     "2. Reference Notes/React/Renders and Re-renders.md",
@@ -249,7 +250,6 @@
     "1. Zettelkasten/Mindset of Successful Programmers.md",
     "1. Zettelkasten/Question Driven Development.md",
     "1. Zettelkasten/NFT Card-Marketplace.md",
-    "5. MOC/Methodologies.md",
     "2. Reference Notes/React",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
