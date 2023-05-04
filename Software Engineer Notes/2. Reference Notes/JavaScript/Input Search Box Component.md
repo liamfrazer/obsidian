@@ -19,7 +19,15 @@ Tags: [[React]]
 ```
 * With inputs, you typically have a change handler that combines into an input
 * We're mainly looking for target within the event expression
-* 
+
+## ChatGPT
+* In this implementation, we define the `handleChange` function that updates the `searchField` property of the component's state with the current input value. We then use the `filter()` method on the `monsters` array to create a new `filteredMonsters` array that only includes monsters whose `name` property contains the value of the `searchField` property. The `toLowerCase()` method is used to make the search case-insensitive.
+
+* Finally, we use the `map()` method to render a list of `<h1>` elements for each monster in the `filteredMonsters` array.
+
+
+
+
 
 
 
