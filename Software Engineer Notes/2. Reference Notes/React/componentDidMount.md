@@ -69,6 +69,86 @@ The second `.then()` method takes the parsed JSON data (which is an array of use
 Overall, this code is fetching data from an external API and using it to update the state of the component, which will likely cause it to re-render with the new data displayed.
 ```
 
+## DiceRoll Test
+
+
+```javascript
+class App extends Component {
+
+  constructor() {
+
+    super();
+
+  
+
+    this.state = {
+
+      diceRolls: []
+
+    }
+
+  }
+
+  
+
+  render() {
+
+    return (
+
+      <div className="App" >
+
+        <button className="rollBtn" onClick={() => {
+
+          const newRoll = {
+
+            id: this.state.diceRolls.length + 1,
+
+            roll: Math.floor(Math.random() * 6) + 1
+
+          };
+
+          this.setState((prevState) => {
+
+            return { diceRolls: [...prevState.diceRolls, newRoll] }
+
+          }, () => { console.log(this.state); })
+
+          // this.setState((prevState) => {
+
+          //   return { diceRolls: [...prevState.diceRolls, newRoll] }
+
+          // })
+
+        }}>Roll</button>
+
+        <button className="clearBtn" onClick={() => {
+
+          this.setState(() => {
+
+            return { diceRolls: [] }
+
+          }, () => { console.log(this.state); })
+
+        }}>Clear</button>
+
+        {
+
+          this.state.diceRolls.map((rolls) => {
+
+            return <div key={rolls.id}><h1>Roll: {rolls.id}<br></br>{rolls.roll}</h1></div>
+
+          })
+
+        }
+
+      </div>
+
+    )
+
+  }
+
+}
+```
 
 
 
