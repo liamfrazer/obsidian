@@ -4,7 +4,13 @@ Tags: [[React]]
 
 # Input Search Box Component
 
+* Work on functionality first before CSS is applied
+* With any feature we're building, we then understand the requirements of the feature
 
+## input field
+* We need an input field
+* Every HTML tag is actually a react component that JSX has already included
+* 
 
 
 
