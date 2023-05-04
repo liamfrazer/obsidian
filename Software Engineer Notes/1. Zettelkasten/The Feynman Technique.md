@@ -8,7 +8,9 @@ Tags: [[Methodologies]]
 
 # 2. Write out an explanation as if you were teaching it to someone who didn't understand the subject
 
-# 3. 
+# 3. Whenever you get stuck, go back to the material and re-learn. Fill in the gaps in your knowledge until you can write an explanation `without` source material
+
+
 
 ___
 # Flashcards
