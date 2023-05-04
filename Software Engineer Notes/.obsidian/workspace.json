@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/Searching and Filtering.md",
+                "file": "2. Reference Notes/React/Storing Original Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/Searching and Filtering.md",
+                "file": "2. Reference Notes/React/Storing Original Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/Searching and Filtering.md",
+                "file": "2. Reference Notes/React/Storing Original Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/Searching and Filtering.md"
+                "file": "2. Reference Notes/React/Storing Original Data.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "6ac374ec125e1c67",
   "lastOpenFiles": [
-    "2. Reference Notes/React/Storing Original Data.md",
     "2. Reference Notes/React/Searching and Filtering.md",
+    "2. Reference Notes/React/Storing Original Data.md",
     "2. Reference Notes/JavaScript/Input Search Box Component.md",
     "2. Reference Notes/React/Renders and Re-renders.md",
     "2. Reference Notes/React/componentDidMount.md",
