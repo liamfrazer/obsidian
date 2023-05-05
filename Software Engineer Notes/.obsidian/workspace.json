@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "2. Reference Notes/React/Optimisations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "2. Reference Notes/React/Optimisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md",
+                "file": "2. Reference Notes/React/Optimisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/Prompt Engineering.md"
+                "file": "2. Reference Notes/React/Optimisations.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   },
   "active": "85cba1b485d8d503",
   "lastOpenFiles": [
+    "1. Zettelkasten/Prompt Engineering.md",
     "1. Zettelkasten/Study Less Study Smart.md",
     "1. Zettelkasten/The Feynman Technique.md",
     "2. Reference Notes/React/Optimisations.md",
@@ -203,7 +204,6 @@
     "2. Reference Notes/React/States and Shallow Merge.md",
     "2. Reference Notes/React/Single Page Applications.md",
     "2. Reference Notes/JavaScript/Random Number Generator.md",
-    "1. Zettelkasten/Prompt Engineering.md",
     "1. Zettelkasten/The Black Box Method.md",
     "1. Zettelkasten/Writing over talking.md",
     "1. Zettelkasten/Focusing Your Unconscious Mind.md",
