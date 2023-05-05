@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cbff94bba7e08c08",
+        "id": "11ca06d371553f69",
         "type": "tabs",
         "children": [
           {
-            "id": "98bf57e8123a13d3",
+            "id": "85cba1b485d8d503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/States and Shallow Merge.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4407c072327a5d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Zettelkasten/Lean Six Sigma.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a3c5e2c766e07dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Reference Notes/React/Mapping Arrays to Elements.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ac374ec125e1c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Zettelkasten/The Feynman Technique.md",
+                "file": "1. Zettelkasten/Study Less Study Smart.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/The Feynman Technique.md",
+                "file": "1. Zettelkasten/Study Less Study Smart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/The Feynman Technique.md",
+                "file": "1. Zettelkasten/Study Less Study Smart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/The Feynman Technique.md"
+                "file": "1. Zettelkasten/Study Less Study Smart.md"
               }
             }
           },
@@ -222,10 +182,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6ac374ec125e1c67",
+  "active": "85cba1b485d8d503",
   "lastOpenFiles": [
-    "2. Reference Notes/React/Optimisations.md",
+    "1. Zettelkasten/Study Less Study Smart.md",
     "1. Zettelkasten/The Feynman Technique.md",
+    "2. Reference Notes/React/Optimisations.md",
     "2. Reference Notes/React/Storing Original Data.md",
     "2. Reference Notes/React/Searching and Filtering.md",
     "2. Reference Notes/JavaScript/Input Search Box Component.md",
@@ -249,7 +210,6 @@
     "1. Zettelkasten/Lean Six Sigma.md",
     "1. Zettelkasten/Mindset of Successful Programmers.md",
     "1. Zettelkasten/Question Driven Development.md",
-    "1. Zettelkasten/NFT Card-Marketplace.md",
     "2. Reference Notes/React",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
