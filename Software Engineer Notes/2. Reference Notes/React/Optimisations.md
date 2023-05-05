@@ -23,7 +23,13 @@ onChange={(event) => {
 * When JavaScript runs the code, JavaScript will create the function above, but will throw it away once done. 
 * Every time render is being ran, the function is being re-used
 * The event value will change, but the function isn't being re-written
-* 
+
+## Destructing
+
+    const { monsters, searchField, } = this.state
+    const { onSearchChange } = this;
+
+
 
 
 
