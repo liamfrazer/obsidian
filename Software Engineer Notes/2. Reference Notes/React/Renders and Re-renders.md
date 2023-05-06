@@ -13,6 +13,12 @@ Tags: [[React]]
 
 
 
+* Render gets called when we initlise the app with constructor, and then render gets called
+* setState will trigger render from calling
+* Components will also re-render when props changer
+
+
+
 
 
 
