@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/Understanding Components.md",
+                "file": "2. Reference Notes/React/CardList Component.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Reference Notes/React/Understanding Components.md",
+                "file": "2. Reference Notes/React/CardList Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Reference Notes/React/Understanding Components.md",
+                "file": "2. Reference Notes/React/CardList Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Reference Notes/React/Understanding Components.md"
+                "file": "2. Reference Notes/React/CardList Component.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "85cba1b485d8d503",
   "lastOpenFiles": [
-    "2. Reference Notes/React/Optimisations.md",
     "2. Reference Notes/React/Understanding Components.md",
+    "2. Reference Notes/React/CardList Component.md",
+    "2. Reference Notes/React/Optimisations.md",
     "1. Zettelkasten/Prompt Engineering.md",
     "1. Zettelkasten/Study Less Study Smart.md",
     "1. Zettelkasten/The Feynman Technique.md",
@@ -209,7 +210,6 @@
     "1. Zettelkasten/Writing over talking.md",
     "1. Zettelkasten/Focusing Your Unconscious Mind.md",
     "1. Zettelkasten/Lean Six Sigma.md",
-    "1. Zettelkasten/Mindset of Successful Programmers.md",
     "2. Reference Notes/React",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
