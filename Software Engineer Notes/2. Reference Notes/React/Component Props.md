@@ -6,7 +6,24 @@ Tags: [[React]]
 
 * Props are shorthand for properties. Identical to the properties we've already used.
 * We can pass through the monsters via a prop
-* We can name props whatever we want,
+* We can name props whatever we want, but have to match up what we're passing in to what we're expecting
+
+
+```javascript
+          <CardList monsters={"I am the monsters"} />
+```
+
+```javascript
+console.log(this.props)
+```
+
+```console
+Object { monsters: "I am the monsters" }
+```
+
+
+
+
 
 
 
