@@ -15,7 +15,13 @@ Tags: [[React]]
 
 * Render gets called when we initlise the app with constructor, and then render gets called
 * setState will trigger render from calling
-* Components will also re-render when props changer
+* Components will also re-render when props change, our components will also re-render
+* When we first render our card list, we get passed an empty array, that is getting passed into Cardlist initlially
+* We call setState via the compoNentDidMount
+* Because React hjs new props, this triggers a re-render
+
+* Components re-render on setState and when props gets updated
+* React renders on mount and then re-renders on either setState or when new props are changing
 
 
 
