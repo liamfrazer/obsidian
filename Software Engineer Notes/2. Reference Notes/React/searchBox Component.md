@@ -15,6 +15,15 @@ Tags: [[React]]
 * We want this to be more specific
 
 
+```javascript
+        <SearchBox onChangeHandler={onSearchChange} />
+```
+```javascript
+<input className='search-box' type='search' placeholder='Search...' onChange={this.props.onChangeHandler}></input>
+```
+
+* 
+
 
 
 
