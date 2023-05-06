@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Reference Notes/React/Component Props.md",
+                "file": "2. Reference Notes/React/Renders and Re-renders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Reference Notes/React/Renders and Re-renders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Reference Notes/React/Renders and Re-renders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Reference Notes/React/Renders and Re-renders.md"
+              }
             }
           },
           {
@@ -178,7 +182,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "0d13fc1c6689b949",
+  "active": "85cba1b485d8d503",
   "lastOpenFiles": [
     "2. Reference Notes/React/Component Props.md",
     "2. Reference Notes/React/CardList Component.md",

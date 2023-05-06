@@ -23,8 +23,22 @@ Object { monsters: "I am the monsters" }
 
 * We are destructuring in the CardList component as this allows us to use `this.props` in multiple places without complications
 
-* 
 
+```javascript
+        return (
+
+            <div>
+
+                {monsters.map(monster => (
+
+                    <h1 key={monster.id}>{monster.name}</h1>
+
+                ))}
+
+            </div>
+```
+
+* 
 
 
 
