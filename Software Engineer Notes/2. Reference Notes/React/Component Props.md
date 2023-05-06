@@ -21,7 +21,9 @@ console.log(this.props)
 Object { monsters: "I am the monsters" }
 ```
 
+* We are destructuring in the CardList component as this allows us to use `this.props` in multiple places without complications
 
+* 
 
 
 
