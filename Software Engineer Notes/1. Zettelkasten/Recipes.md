@@ -18,7 +18,8 @@ Tags:
 * Calculations
 	* When entering the materials, this will show you how many items of each you'll be able to make
 	* If you select an item, this will then take away the required materials from your total
-* 
+* Shopping list
+	* Once you've got a selected item, this will then go into a shopping list
 
 ___
 # Flashcards
