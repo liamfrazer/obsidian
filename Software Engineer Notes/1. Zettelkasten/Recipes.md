@@ -25,7 +25,7 @@ Tags:
 
 
 * Loop through each recipe, if the numbers work, then apply a count, once the numbers don't work, then stop the loop, apply the numbers to then make the amount you can craft
-* If numbers are then added to a certain recipe, then take them away from other recipies
+* If numbers are then added to a certain recipe, then take them away from other recipes
 * 
 
 ___
