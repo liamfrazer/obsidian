@@ -20,6 +20,8 @@ Tags:
 	* If you select an item, this will then take away the required materials from your total
 * Shopping list
 	* Once you've got a selected item, this will then go into a shopping list
+* Weight Ratios
+	* Potential to add in weight of an item and work out weights
 
 ___
 # Flashcards
