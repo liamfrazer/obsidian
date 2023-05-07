@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Zettelkasten/Question Driven Development.md",
+                "file": "1. Zettelkasten/Recipes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Zettelkasten/Question Driven Development.md",
+                "file": "1. Zettelkasten/Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Zettelkasten/Question Driven Development.md",
+                "file": "1. Zettelkasten/Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Zettelkasten/Question Driven Development.md"
+                "file": "1. Zettelkasten/Recipes.md"
               }
             }
           },
@@ -182,8 +182,10 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "85cba1b485d8d503",
+  "active": "659eb7cc6c04af3d",
   "lastOpenFiles": [
+    "1. Zettelkasten/Question Driven Development.md",
+    "1. Zettelkasten/Recipes.md",
     "2. Reference Notes/React/searchBox Component.md",
     "2. Reference Notes/React/Renders and Re-renders.md",
     "2. Reference Notes/React/Component Props.md",
@@ -208,8 +210,6 @@
     "2. Reference Notes/React/States and Shallow Merge.md",
     "2. Reference Notes/React/Single Page Applications.md",
     "2. Reference Notes/JavaScript/Random Number Generator.md",
-    "1. Zettelkasten/The Black Box Method.md",
-    "1. Zettelkasten/Writing over talking.md",
     "2. Reference Notes/React",
     "2. Reference Notes/Courses/JavaScript Full Course for Free",
     "3. Files/Pasted image 20230428230152.png",
