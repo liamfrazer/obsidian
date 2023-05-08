@@ -36,6 +36,7 @@ Tags:
 * Slide
 * Stock
 * Supressor
+* Drum
 * Bullpup Shotgun
 * Double-Barrel Shotgun
 * Glock 17
