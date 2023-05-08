@@ -28,6 +28,17 @@ Tags:
 * If numbers are then added to a certain recipe, then take them away from other recipes
 * 
 
+
+* Clip
+* Mag
+* Scope
+* Light
+* Slide
+* Stock
+* Supressor
+* Bullpup Shotgun
+* Double-Barrel Shotgun
+* Glock 17
 ___
 # Flashcards
 
